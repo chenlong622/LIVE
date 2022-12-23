@@ -1,4 +1,4 @@
-王胖子来看央视高清啦(≧▽≦*),#genre#
+央视高清(≧▽≦*),#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -158,7 +158,7 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 
-晗晗的动画仓库,#genre#
+晗晗动画,#genre#
 黑莓动画,http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
 黑莓动画,http://39.134.67.198/PLTV/88888888/224/3221225529/index.m3u8
 黑莓动画,http://39.134.67.4/PLTV/88888888/224/3221225529/index.m3u8
@@ -229,7 +229,7 @@ CCTV-14少儿,http://111.40.196.38/PLTV/88888888/224/3221225573/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787
 明星宝宝,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 
-陈天雪的空中课堂,#genre#
+天雪课堂,#genre#
 空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
 空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -545,7 +545,7 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 爱尔达体育一,http://50.7.61.148:30080/Entry/eltasport1
 
-晗晗最爱看,#genre#
+晗晗爱看,#genre#
 动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
 哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
