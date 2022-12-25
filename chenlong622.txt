@@ -48,11 +48,6 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 中国气象,http://140.207.241.3:8080/live/program/live/zgqx/1300000/d1.m3u8
 CGTN,http://111.40.196.9/PLTV/88888888/224/3221225652/index.m3u8
 CGTN纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221225645/index.m3u8
-中影-老故事,http://39.134.19.248:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中影-新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2/index.m3u8
-中国教育1,http://111.40.196.9/PLTV/88888888/224/3221225576/index.m3u8
-新华中文,http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
-新华英语,http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
 CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
@@ -158,19 +153,7 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 山西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 新疆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
 
-晗晗动画,#genre#
-黑莓动画,http://111.40.196.35/PLTV/88888888/224/3221225628/index.m3u8
-黑莓动画,http://39.134.67.198/PLTV/88888888/224/3221225529/index.m3u8
-黑莓动画,http://39.134.67.4/PLTV/88888888/224/3221225529/index.m3u8
-黑莓动画,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
-黑莓动画,http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1.m3u8
-黑莓动画,http://39.134.67.226/PLTV/88888888/224/3221225529/index.m3u8
-黑莓动画,http://39.134.65.179/PLTV/88888888/224/3221225529/1.m3u8
-黑莓动画,http://39.134.65.177/PLTV/88888888/224/3221225529/1.m3u8
-黑莓动画,http://39.134.65.175/PLTV/88888888/224/3221225529/1.m3u8
-黑莓动画,http://39.134.65.166/PLTV/88888888/224/3221225529/1.m3u8
-黑莓动画,http://39.134.65.173/PLTV/88888888/224/3221225529/1.m3u8
-黑莓动画,http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
+动画,#genre#
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
 北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
@@ -229,19 +212,7 @@ CCTV-14少儿,http://111.40.196.38/PLTV/88888888/224/3221225573/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787
 明星宝宝,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 
-天雪课堂,#genre#
-空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂四年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂五年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂六年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂七年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂八年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂九年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkjiunj/1300000/mnf.m3u8
-空中课堂高一,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂高二,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂高三,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
+空中课堂,#genre#
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -545,8 +516,7 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 五星体育,http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 爱尔达体育一,http://50.7.61.148:30080/Entry/eltasport1
 
-晗晗爱看,#genre#
-动漫秀场,http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+儿童剧场,#genre#
 哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
