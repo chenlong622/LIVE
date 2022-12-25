@@ -1,4 +1,4 @@
-央视高清(≧▽≦*),#genre#
+🌏央视高清(≧▽≦*),#genre#
 CCTV1,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
 CCTV2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -25,7 +25,12 @@ CCTV13,http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV14,http://39.135.138.60:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV14,http://39.135.138.59:18890/PLTV/88888910/224/3221225640/index.m3u8
 CCTV15,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
-CCTV16奥林匹克,http://iptv.tvfix.org/hls/cctv16hd.m3u8
+CCTV16,http://iptv.tvfix.org/hls/cctv16hd.m3u8
+CCTV16,http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8$超清1080P
+CCTV16,http://39.135.138.58:18890/TVOD/88888910/224/3221226230/index.m3u8$超清1080P
+CCTV17,http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17,http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
 CCTV17,http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 CCTV怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 CCTV怀旧剧场,http://117.148.179.147/PLTV/88888888/224/3221231544/index.m3u8
@@ -472,8 +477,14 @@ AXN,http://50.7.61.148:30080/Entry/axn
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电影,http://39.134.67.226/PLTV/88888888/224/3221225681/index.m3u8
 黑莓电影,http://39.134.65.208/PLTV/88888888/224/3221225681/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电竞,http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
+黑莓电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225750/index.m3u8
 电影5,http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 电影6,http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
 电影8,http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
@@ -528,6 +539,7 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 爱尔达体育一,http://50.7.61.148:30080/Entry/eltasport1
 
 儿童剧场,#genre#
+黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
 哈哈炫动,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225689/1/index.m3u8?fmt=ts2hls
 卡酷少儿,http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
@@ -739,7 +751,7 @@ EYETV旅游,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c9
 CelestialMovies,http://210.210.155.37/dr9445/h/h14/index.m3u8
 Kix,http://210.210.155.37/dr9445/h/h07/index.m3u8
 
-⚡IPV6直播,#genre#
+⚡IPV6直播专区,#genre#
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225501/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225618/2/index.m3u8
 CCTV1,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225630/2/index.m3u8
