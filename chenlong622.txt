@@ -1,73 +1,76 @@
-🌏央视高清(≧▽≦*),#genre#
-CCTV-1 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?blog.ntnas.top
-CCTV-1 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
-CCTV-1 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-CCTV-1 HD,http://117.169.120.140:8080/live/cctv-1/.m3u8
-CCTV-2 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8?blog.ntnas.top
-CCTV-2 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
-CCTV-2 HD，http://117.169.120.140:8080/live/cctv-2/.m3u8
-CCTV-3 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8?blog.ntnas.top
-CCTV-3 HD, http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8?blog.ntnas.top
-CCTV-3 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-CCTV-4 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8?blog.ntnas.top
-CCTV-4 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 HD,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
-CCTV-5 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top
-CCTV-5 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8?世界杯WorldCup
-CCTV-5 HD,http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8?世界杯
-CCTV-5+ HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8?blog.ntnas.top
-CCTV-6 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8?blog.ntnas.top
-CCTV-6 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
-CCTV-6 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
-CCTV-6 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV-6 HD,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV-7 HD,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV-8 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-8 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?blog.ntnas.top
-CCTV-8 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
-CCTV-8 HD,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
-CCTV-9 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?blog.ntnas.top
-CCTV-9 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
-CCTV-9 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-9 HD,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
-CCTV-10 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?blog.ntnas.top
-CCTV-10 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV-10 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV-10 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
-CCTV-10 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
-CCTV-10 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
-CCTV-10 HD,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?
-CCTV-11 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
-CCTV-11 HD,http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
-CCTV-11 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
-CCTV-11 HD,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000302/index.m3u8?
-CCTV-12 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8?blog.ntnas.top
-CCTV-12 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV-12 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
-CCTV-12 HD,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
-CCTV-13 HD,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-13 HD,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-14 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?blog.ntnas.top
-CCTV-14 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV-14 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
-CCTV-14 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-CCTV-14 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
-CCTV-15 HD,http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=0
-CCTV-15 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-15 HD,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
-CCTV-15 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
-CCTV-16 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8?世界杯WorldCup
-CCTV-16 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8?世界杯WorldCup
-CCTV-16 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls?世界杯WorldCup
-CCTV-16 HD,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3?世界杯WorldCup
-CCTV-16 HD,http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225956/index.m3u8?$广西cdn?世界杯WorldCup
-CCTV-17 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8?blog.ntnas.top
-CCTV-17 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
-CCTV-17 HD,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV-17 HD,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
-CCTV-17 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
-CCTV-17 HD,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
+央视高清(≧▽≦*),#genre#
+CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?blog.ntnas.top
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+CCTV-1,http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
+CCTV-1,http://117.169.120.140:8080/live/cctv-1/.m3u8
+CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8?blog.ntnas.top
+CCTV-2,http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+CCTV-2，http://117.169.120.140:8080/live/cctv-2/.m3u8
+CCTV-3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8?blog.ntnas.top
+CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8?blog.ntnas.top
+CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8?blog.ntnas.top
+CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
+CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?blog.ntnas.top
+CCTV-5,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225633/index.m3u8?世界杯WorldCup
+CCTV-5,http://[2409:8087:5c00:10:5::137]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225801/index.m3u8?世界杯
+CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8?blog.ntnas.top
+CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8?blog.ntnas.top
+CCTV-6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
+CCTV-6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
+CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV-7,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?blog.ntnas.top
+CCTV-8,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225635/index.m3u8
+CCTV-8,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?blog.ntnas.top
+CCTV-9,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225626/index.m3u8
+CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?blog.ntnas.top
+CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV-10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225636/index.m3u8
+CCTV-10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225627/index.m3u8
+CCTV-10,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
+CCTV-10,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?
+CCTV-11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-11,http://39.135.138.60:18890/PLTV/88888910/224/3221225628/index.m3u8
+CCTV-11,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225628/index.m3u8
+CCTV-11,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000302/index.m3u8?
+CCTV-11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8?blog.ntnas.top
+CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV-12,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225637/index.m3u8
+CCTV-12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+CCTV-13,http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV-13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV-13,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225638/index.m3u8
+CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?blog.ntnas.top
+CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
+CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m3u8?fmt=ts2hls
+CCTV-15,http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=0
+CCTV-15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV-15,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8
+CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
+CCTV-15,http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226230/index.m3u8?世界杯WorldCup
+CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226233/index.m3u8?世界杯WorldCup
+CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m3u8?fmt=ts2hls?世界杯WorldCup
+CCTV-16,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3?世界杯WorldCup
+CCTV-16,http://cdnrrs.gx.chinamobile.com/TVOD/77777777/224/3221225956/index.m3u8?$广西cdn?世界杯WorldCup
+CCTV-16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8?blog.ntnas.top
+CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
+CCTV-17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CCTV-17,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8
+CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
+CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
 CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226950/index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
 CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226984/index.m3u8
@@ -88,7 +91,7 @@ CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
 CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 
-🛰｜卫视频道,#genre#
+卫视频道,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
@@ -572,7 +575,6 @@ SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 风云剧场,http://42.176.185.28:9901/tsfile/live/1031_1.m3u8
 兵器科技,http://42.176.185.28:9901/tsfile/live/1034_1.m3u8
 世界地理,http://42.176.185.28:9901/tsfile/live/1037_1.m3u8
-
 
 4K高清,#genre#
 纯享4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -1570,152 +1572,4 @@ CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212256
 梵净山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 地球脉动第一季,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-_0622,#genre#
-Brazzers HD,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6182/index.m3u8
-Brazzers TV Europe,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/910/index.m3u8
-Brazzers eXXtra,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6181/index.m3u8
-Hustler HD orig,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/9065/index.m3u8
-Hustler HD Europe,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/244/index.m3u8
-Blue Hustler,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/1064/index.m3u8
-Penthouse Passion HD,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/1073/index.m3u8
-Penthouse Gold HD,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/5011/index.m3u8
-Penthouse Quickies HD,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/5013/index.m3u8
-DDF Network,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6194/index.m3u8
-DDF Busty,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6193/index.m3u8
-Naughty America,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/6237/index.m3u8
-Русская Ночь,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/147/index.m3u8
-Нюарт TV,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/2057/index.m3u8
-Шалун,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/922/index.m3u8
-Playboy,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/527/index.m3u8
-Sexto Senso,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/875/index.m3u8
-Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/LTTLAKKUMH6ENZ/5012/index.m3u8
-时长:53:39-DLHEY_20220520 巨乳美女将为您服务！Vol.2  沢田美波,https://ss.rongliren.com/api/video/m3u8?id=13789&admin=1
-时长:13:32-DLHEY_20220528 用公鸡插入一个素人的女人！ ！！  山田萌,https://ss.rongliren.com/api/video/m3u8?id=13788&admin=1
-时长:18:47-DLHEY-219 有欲望的成熟女人 ～ 北條麻妃 _3,https://ss.rongliren.com/api/video/m3u8?id=13787&admin=1
-时长:01:00:53-DLHEY-223 男人去的色情按摩 - 北山かんな,https://ss.rongliren.com/api/video/m3u8?id=13786&admin=1
-时长:01:00:14-DLHEY-224 我想去洗手间在喷~L～  杉浦花音,https://ss.rongliren.com/api/video/m3u8?id=13784&admin=1
-时长:54:34-DL1pon_031022_001 羞耻的撒尿  柊麗奈_1,https://ss.rongliren.com/api/video/m3u8?id=13783&admin=1
-时长:58:21-DL1pon_041922_001 引诱男人的罪恶乳头  青木クリス,https://ss.rongliren.com/api/video/m3u8?id=13782&admin=1
-时长:57:03-DLHEY-220 姫川ゆうな的最佳身材 _1,https://ss.rongliren.com/api/video/m3u8?id=13781&admin=1
-时长:49:21-DL1pon_031022_001 羞耻的撒尿  柊麗奈_2,https://ss.rongliren.com/api/video/m3u8?id=13780&admin=1
-时长:01:00:08-DL1pon_043022_001 搬到隔壁的人气AV女优！ 百多えみり_1,https://ss.rongliren.com/api/video/m3u8?id=13779&admin=1
-时长:01:07:08-DL1pon_050522_001 av女优  長峰しほ,https://ss.rongliren.com/api/video/m3u8?id=13778&admin=1
-时长:59:52-DL1pon_043022_001 搬到隔壁的人气AV女优！ 百多えみり_2,https://ss.rongliren.com/api/video/m3u8?id=13777&admin=1
-时长:01:00:48-DL1pon_050622_001 魅力四射  白瀬ゆきほ,https://ss.rongliren.com/api/video/m3u8?id=13776&admin=1
-时长:01:00:00-DL1pon_051922_001 M痴女  椿レオ,https://ss.rongliren.com/api/video/m3u8?id=13775&admin=1
-时长:01:00:38-DL1pon_052822_001 女友的闺蜜  川村りな,https://ss.rongliren.com/api/video/m3u8?id=13774&admin=1
-时长:10:46-DL1pon_050722_001 在浅红色的小穴中破坏  ゆずの琴美,https://ss.rongliren.com/api/video/m3u8?id=13773&admin=1
-时长:14:35-DL1pon_051722_001 女上位的绝技！  沢田美波,https://ss.rongliren.com/api/video/m3u8?id=13772&admin=1
-时长:59:58-DL1pon_053122_001 知道男人G点的女人～：樱井惠美、藤结衣、白井菜奈,https://ss.rongliren.com/api/video/m3u8?id=13771&admin=1
-时长:58:15-DLcarib_032522-001 極上泡姫物語 Vol.99  白川麻衣,https://ss.rongliren.com/api/video/m3u8?id=13770&admin=1
-时长:01:00:23-DLcarib_032422-001 身体鉴赏 瀬戸レイカ,https://ss.rongliren.com/api/video/m3u8?id=13769&admin=1
-时长:54:09-DLcarib_041522-001 无法停止的身体～  露梨あやせ,https://ss.rongliren.com/api/video/m3u8?id=13768&admin=1
-时长:58:57-DLHEY_20220214 生活中一个接一个-不断跟女人做爱～  禦坂恵衣,https://ss.rongliren.com/api/video/m3u8?id=13767&admin=1
-时长:01:00:20-DLHEY_20220314 阴道射精给一个穿着浴衣风骚女人  新城由衣,https://ss.rongliren.com/api/video/m3u8?id=13763&admin=1
-时长:39:39-DLHEY_20220304 责备的欲望  白川麻衣,https://ss.rongliren.com/api/video/m3u8?id=13762&admin=1
-时长:56:07-DLHEY_20220415 插入我的骚穴！Vol.4  白川麻衣,https://ss.rongliren.com/api/video/m3u8?id=13761&admin=1
-时长:10:54-DLHEY_20220325 插入我顽皮的姐姐身上！Vol.3  折原ほのか,https://ss.rongliren.com/api/video/m3u8?id=13759&admin=1
-时长:59:36-DLHEY_20220425  激烈的做爱！Vol.2  江波りゅう,https://ss.rongliren.com/api/video/m3u8?id=13757&admin=1
-时长:34:03-DLHEY-217 枕头销售的风骚姐姐  夏乃ひまわり,https://ss.rongliren.com/api/video/m3u8?id=13756&admin=1
-时长:35:47-DLSA-001 JAV 超级明星_3,https://ss.rongliren.com/api/video/m3u8?id=13755&admin=1
-时长:30:03-DLSA-001 JAV 超级明星_1,https://ss.rongliren.com/api/video/m3u8?id=13754&admin=1
-时长:36:33-DLSA-001 JAV 超级明星_4,https://ss.rongliren.com/api/video/m3u8?id=13752&admin=1
-时长:31:10-DLSA-002 我的亚洲女友_1,https://ss.rongliren.com/api/video/m3u8?id=13751&admin=1
-时长:35:02-DLSA-005 我丰满的亚洲女朋友_1,https://ss.rongliren.com/api/video/m3u8?id=13750&admin=1
-时长:24:47-DLSA-002 我的亚洲女友_3,https://ss.rongliren.com/api/video/m3u8?id=13749&admin=1
-时长:32:02-DLSA-002 我的亚洲女友_4,https://ss.rongliren.com/api/video/m3u8?id=13748&admin=1
-时长:39:51-DLSA-005 我丰满的亚洲女朋友_3,https://ss.rongliren.com/api/video/m3u8?id=13747&admin=1
-时长:31:34-DLSA-005 我丰满的亚洲女朋友_5,https://ss.rongliren.com/api/video/m3u8?id=13746&admin=1
-时长:27:08-DLSA-006 我毛茸茸的亚洲女朋友_1,https://ss.rongliren.com/api/video/m3u8?id=13745&admin=1
-时长:26:55-DLSA-006 我毛茸茸的亚洲女朋友_3,https://ss.rongliren.com/api/video/m3u8?id=13744&admin=1
-时长:33:44-DLSA-006 我毛茸茸的亚洲女朋友_5,https://ss.rongliren.com/api/video/m3u8?id=13743&admin=1
-时长:58:34-DL1pon_021222_001 勾引爸爸朋友的失意MAX人妻～  江波りゅう,https://ss.rongliren.com/api/video/m3u8?id=13742&admin=1
-时长:49:51-DL1pon_031522_001 美乳小恶魔 蘆田まなか,https://ss.rongliren.com/api/video/m3u8?id=13741&admin=1
-时长:49:10-DLcarib_021522-001 男子计步器挑战 - 你能用臀部摆动达到 100 万次吗？~  坂本美波,https://ss.rongliren.com/api/video/m3u8?id=13738&admin=1
-时长:19:50-DL1pon_022422_001 欢迎来到豪华澡堂  田中綾,https://ss.rongliren.com/api/video/m3u8?id=13737&admin=1
-时长:55:04-DLcarib_022422-001 性感av女优  南あい,https://ss.rongliren.com/api/video/m3u8?id=13736&admin=1
-时长:01:00:40-DLHEY_20220216 色情按摩的乐趣！ ～东峰希沙的主场～  東峰きさ,https://ss.rongliren.com/api/video/m3u8?id=13735&admin=1
-时长:01:01:07-DLHEY_20220427 橘杏里漏尿了！  立花あんり,https://ss.rongliren.com/api/video/m3u8?id=13734&admin=1
-时长:40:28-DLSA-001 JAV 超级明星_2,https://ss.rongliren.com/api/video/m3u8?id=13733&admin=1
-时长:40:21-DLSA-001 JAV 超级明星_5,https://ss.rongliren.com/api/video/m3u8?id=13732&admin=1
-时长:51:45-DLSA-005 我丰满的亚洲女朋友_2,https://ss.rongliren.com/api/video/m3u8?id=13731&admin=1
-时长:40:07-DLSA-002 我的亚洲女友_5,https://ss.rongliren.com/api/video/m3u8?id=13730&admin=1
-时长:30:54-DLSA-002 我的亚洲女友_2,https://ss.rongliren.com/api/video/m3u8?id=13729&admin=1
-时长:01:44:49-DL1pon_021522_001 早上扔垃圾的顽皮邻居  橫山夢,https://ss.rongliren.com/api/video/m3u8?id=13725&admin=1
-时长:58:37-DL1pon_030322_001 乳首調教  青木クリス,https://ss.rongliren.com/api/video/m3u8?id=13724&admin=1
-时长:01:00:46-DL1pon_040222_001 反向性爱-请从后到前！～  白川麻衣,https://ss.rongliren.com/api/video/m3u8?id=13723&admin=1
-时长:01:00:40-DL1pon_042622_001 肛门挤精液汁！～绫美的皮肤最棒了～  田中綾,https://ss.rongliren.com/api/video/m3u8?id=13722&admin=1
-时长:37:44-DLSA-005 我丰满的亚洲女朋友_4,https://ss.rongliren.com/api/video/m3u8?id=13721&admin=1
-时长:38:51-DLSA-006 我毛茸茸的亚洲女朋友_2,https://ss.rongliren.com/api/video/m3u8?id=13720&admin=1
-时长:37:15-DLSA-006 我毛茸茸的亚洲女朋友_4,https://ss.rongliren.com/api/video/m3u8?id=13719&admin=1
-时长:01:09:12-DLPT-206 不做爱你会不开心！ - 霧島ミカ_3,https://ss.rongliren.com/api/video/m3u8?id=13718&admin=1
-时长:01:00:40-DLcarib_030322-001 身体鉴赏 朝比奈菜々子,https://ss.rongliren.com/api/video/m3u8?id=13717&admin=1
-时长:01:11:12-DLHEY_20220504 爱拉的手吻 あいら_2,https://ss.rongliren.com/api/video/m3u8?id=13716&admin=1
-时长:55:26-女海王-卢姗姗,https://ss.rongliren.com/api/video/m3u8?id=10536&admin=1
-时长:20:21-再遇班花-王美琪,https://ss.rongliren.com/api/video/m3u8?id=10535&admin=1
-时长:01:01:26-堕落少女-林妙可,https://ss.rongliren.com/api/video/m3u8?id=10533&admin=1
-时长:26:39-我的姐姐不可能那么淫荡2-小林杏,https://ss.rongliren.com/api/video/m3u8?id=10516&admin=1
-时长:25:12-麻将惨输只好用肉体当筹码-羽芮,https://ss.rongliren.com/api/video/m3u8?id=10515&admin=1
-时长:32:15-女体肉粽,https://ss.rongliren.com/api/video/m3u8?id=10513&admin=1
-时长:53:38-中华料理-安娜,https://ss.rongliren.com/api/video/m3u8?id=10504&admin=1
-时长:40:16-堕落女律师-钟媛,https://ss.rongliren.com/api/video/m3u8?id=10500&admin=1
-时长:41:10-反常的妻子-徐慧慧,https://ss.rongliren.com/api/video/m3u8?id=10499&admin=1
-时长:50:49-不孕的妻子-白晶晶,https://ss.rongliren.com/api/video/m3u8?id=10498&admin=1
-时长:52:33-被拐卖的外国美女-吉娜,https://ss.rongliren.com/api/video/m3u8?id=10497&admin=1
-时长:40:57-贤者之爱-苏凤敏,https://ss.rongliren.com/api/video/m3u8?id=10496&admin=1
-时长:41:08-我的表妹-陈美惠,https://ss.rongliren.com/api/video/m3u8?id=10492&admin=1
-时长:45:43-婚内情-杨桃,https://ss.rongliren.com/api/video/m3u8?id=10491&admin=1
-时长:21:45-女友的惊喜,https://ss.rongliren.com/api/video/m3u8?id=10378&admin=1
-时长:45:43-出差之旅-吴语菲,https://ss.rongliren.com/api/video/m3u8?id=10376&admin=1
-时长:56:43-女外教-安娜,https://ss.rongliren.com/api/video/m3u8?id=10374&admin=1
-时长:40:15-穿越到王者荣耀的世界1-谢雨彤,https://ss.rongliren.com/api/video/m3u8?id=10369&admin=1
-时长:38:53-合租男女--陈萌,https://ss.rongliren.com/api/video/m3u8?id=10368&admin=1
-时长:26:05-女优面试（一）,https://ss.rongliren.com/api/video/m3u8?id=10367&admin=1
-时长:52:57-禮物这是送给爱嫖娼的父亲的礼物-林雨露,https://ss.rongliren.com/api/video/m3u8?id=10362&admin=1
-时长:47:00-七夕,https://ss.rongliren.com/api/video/m3u8?id=10360&admin=1
-时长:56:26-重逢-卢珊珊,https://ss.rongliren.com/api/video/m3u8?id=10355&admin=1
-时长:49:08-夫人饶了我吧-林凤娇,https://ss.rongliren.com/api/video/m3u8?id=10350&admin=1
-时长:41:03-大小姐的沦陷-张子瑜,https://ss.rongliren.com/api/video/m3u8?id=10349&admin=1
-时长:01:22:08-为人师表-林凤娇,https://ss.rongliren.com/api/video/m3u8?id=10347&admin=1
-时长:43:41-手机的秘密,https://ss.rongliren.com/api/video/m3u8?id=10346&admin=1
-时长:51:31-房客的妻子-杨思敏,https://ss.rongliren.com/api/video/m3u8?id=10334&admin=1
-时长:34:35-女优面试(6),https://ss.rongliren.com/api/video/m3u8?id=10169&admin=1
-时长:35:31-女优面试(5),https://ss.rongliren.com/api/video/m3u8?id=10166&admin=1
-时长:01:08:29-奥运选手下海记,https://ss.rongliren.com/api/video/m3u8?id=10163&admin=1
-时长:31:55-女优面试（3）,https://ss.rongliren.com/api/video/m3u8?id=10161&admin=1
-时长:58:42-失恋33天-卢珊珊,https://ss.rongliren.com/api/video/m3u8?id=10154&admin=1
-时长:41:30-穿越到王者荣耀的世界-谢语彤,https://ss.rongliren.com/api/video/m3u8?id=10151&admin=1
-时长:46:04-慈禧秘史-林凤娇,https://ss.rongliren.com/api/video/m3u8?id=10144&admin=1
-时长:39:42-大嫂-李师师,https://ss.rongliren.com/api/video/m3u8?id=10143&admin=1
-时长:42:04-哥哥的小三-金巧巧,https://ss.rongliren.com/api/video/m3u8?id=10140&admin=1
-时长:35:25-女优面试(二),https://ss.rongliren.com/api/video/m3u8?id=10139&admin=1
-时长:40:16-恋母癖义母风韵犹存-杜娟,https://ss.rongliren.com/api/video/m3u8?id=10136&admin=1
-时长:43:28-被玷污的秘书,https://ss.rongliren.com/api/video/m3u8?id=10129&admin=1
-时长:51:20-冷雨夜-人妻淋湿躲雨做爱,https://ss.rongliren.com/api/video/m3u8?id=10128&admin=1
-时长:39:34-猎头色诱术,https://ss.rongliren.com/api/video/m3u8?id=10127&admin=1
-时长:48:26-租房交易-刘玥,https://ss.rongliren.com/api/video/m3u8?id=10126&admin=1
-时长:56:49-绿帽父亲受精女-戚小柃,https://ss.rongliren.com/api/video/m3u8?id=10125&admin=1
-时长:01:08:53-爱在初夜-卢珊珊,https://ss.rongliren.com/api/video/m3u8?id=10069&admin=1
-时长:32:23-童颜少女AV志愿-陈悠悠,https://ss.rongliren.com/api/video/m3u8?id=10059&admin=1
-时长:32:39-36D巨乳女体欲,https://ss.rongliren.com/api/video/m3u8?id=10048&admin=1
-时长:44:42-童颜女秘堕落日记-谢语彤,https://ss.rongliren.com/api/video/m3u8?id=10041&admin=1
-时长:28:52-人妻的性欲-温婉,https://ss.rongliren.com/api/video/m3u8?id=10022&admin=1
-时长:38:37-少女的悔悟-潘甜甜,https://ss.rongliren.com/api/video/m3u8?id=9966&admin=1
-时长:34:52-吸精北欧名模,https://ss.rongliren.com/api/video/m3u8?id=9965&admin=1
-时长:52:56-老公请原谅我,https://ss.rongliren.com/api/video/m3u8?id=9964&admin=1
-时长:01:10:12-爱在日落时-卢珊珊,https://ss.rongliren.com/api/video/m3u8?id=9961&admin=1
-时长:37:41-兄弟奸淫我妻子-刘小雯,https://ss.rongliren.com/api/video/m3u8?id=9921&admin=1
-时长:20:12-170CM长腿御姐-李曼丽,https://ss.rongliren.com/api/video/m3u8?id=9917&admin=1
-时长:28:40-语文教师-徐洛瑶,https://ss.rongliren.com/api/video/m3u8?id=9914&admin=1
-时长:49:08-特殊治疗-金巧巧,https://ss.rongliren.com/api/video/m3u8?id=9910&admin=1
-时长:37:40-妻子助我升职-李曼丽,https://ss.rongliren.com/api/video/m3u8?id=9901&admin=1
-时长:56:10-爱在午夜-卢珊珊,https://ss.rongliren.com/api/video/m3u8?id=9898&admin=1
-时长:31:39-离婚谈判-张子瑜,https://ss.rongliren.com/api/video/m3u8?id=9894&admin=1
-时长:48:37-少妇赌约,https://ss.rongliren.com/api/video/m3u8?id=9889&admin=1
-时长:31:32-E罩杯巨乳女郎-夏玉玲,https://ss.rongliren.com/api/video/m3u8?id=9873&admin=1
-时长:40:00-极品轻熟女,https://ss.rongliren.com/api/video/m3u8?id=9754&admin=1
-时长:40:53-私人玩物-陆雪琪,https://ss.rongliren.com/api/video/m3u8?id=9751&admin=1
-时长:39:29-巨乳清纯萌妹-唐倩,https://ss.rongliren.com/api/video/m3u8?id=9747&admin=1
-时长:41:04-邻居人妻-徐美娇,https://ss.rongliren.com/api/video/m3u8?id=9741&admin=1
-时长:33:18-借贷肉偿-林丽,https://ss.rongliren.com/api/video/m3u8?id=9712&admin=1
-时长:42:01-寂寞骚妻-张晴,https://ss.rongliren.com/api/video/m3u8?id=9636&admin=1
+
