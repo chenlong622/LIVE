@@ -586,12 +586,23 @@ CNC中文,http://39.134.115.163:8080/PLTV/88888910/224/3221225694/index.m3u8
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4k,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8 
+欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844 
+欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8 
+欢笑剧场4K,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8 
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
+苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
 影院4k,http://epg.112114.xyz/douyu/9249162
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 纯享4K,http://117.169.121.162:6610/PLTV/88888910/224/3221225786/index.m3u8
 求索纪录4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
+爱上4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+4K超高清电影,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/emdy4k_8000.m3u8 
 
 NewTv,#genre#
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
@@ -770,6 +781,7 @@ CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清電影,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226463/index.m3u8
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 AXN,http://50.7.61.148:30080/Entry/axn
 卫视电影台,http://220.134.196.147:8578/ch07.m3u8
 卫视电影台,http://211.23.114.106:8553/http/116.50.42.19:8081/hls/62/804/ch07.m3u8
@@ -811,6 +823,18 @@ AXN,http://50.7.61.148:30080/Entry/axn
 科幻怪兽,http://hpull.kktv8.com/livekktv/143960119/playlist.m3u8
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+好莱坞HD,http://www.372583307.top:4022/udp/233.50.201.228:5140
+超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
+经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
+童年回忆,http://epg.112114.xyz/douyu/10395973
+科幻影视,http://epg.112114.xyz/douyu/3508304
+60帧极致蓝光,http://epg.112114.xyz/douyu/747764
+经典神剧,http://epg.112114.xyz/douyu/3700024
+国语超清动画电影,http://epg.112114.xyz/douyu/6449849
+华语经典,http://epg.112114.xyz/douyu/434971
+1905电影,http://txtest-xp2p.p2p.huya.com/huyalive/1199513205060-1199513205060-5228390287876816896-2399026533576-10057-A-0-1.xs
 
 体育频道,#genre#
 五星体育频道,http://183.207.255.207/live/program/live/ssty/4000000/mnf.m3u8?世界杯WorldCup
