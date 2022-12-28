@@ -1,4 +1,4 @@
-🇨🇳歌唱祖国,#genre#
+歌唱祖国,#genre#
 歌唱祖国https://vd2.bdstatic.com/mda-mk148vvbus4mb1df/sc/cae_h264_nowatermark/1635837484077665682/mda-mk148vvbus4mb1df.mp4
 歌唱祖国,https://vd3.bdstatic.com/mda-nh1paqc38drefu1z/720p/h264/1659457730343053334/mda-nh1paqc38drefu1z.mp4
 我的祖国,https://vd2.bdstatic.com/mda-nirger9gdcq15abz/360p/h264/1664193355207813920/mda-nirger9gdcq15abz.mp4#https://vd2.bdstatic.com/mda-jcpvtmuhqujkkurv/sc/mda-jcpvtmuhqujkkurv.mp4
@@ -84,7 +84,6 @@ CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.
 CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
 翡翠台,http://23.237.10.66:16106
-tvb剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8 
 J2,http://120.84.96.196:808/hls/86/index.m3u8 
@@ -94,7 +93,6 @@ J2,http://120.84.96.222:808/hls/86/index.m3u8
 八度空间,http://51.79.82.208:16005
 天映频道,http://51.79.82.208:16024
 经典再现,http://112.19.214.90:8883/tsfile/live/1009_1.m3u8
-高清影院,http://112.19.214.90:8883/tsfile/live/1011_1.m3u8
 每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001
 幸福剧场,http://beifeng.site:4000/udp/239.3.1.112:8001
 幸福娱乐,http://beifeng.site:4000/udp/239.3.1.113:8001
@@ -1551,8 +1549,6 @@ CCTV-14少儿,http://111.40.196.38/PLTV/88888888/224/3221225573/index.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&amp;t=1577153787
 明星宝宝,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
 
-
-
 🔁轮播剧场,#genre#
 成龙,https://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
 沈腾,https://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
@@ -1759,8 +1755,6 @@ CC看动漫,https://txtest-xp2p.p2p.huya.com/src/1199583882990-1199583882990-553
 小羊观影,https://txtest-xp2p.p2p.huya.com/src/1199583404457-1199583404457-5529894402190737408-2399166932370-10057-A-0-1.xs
 顾九撩电影[1024*552],https://txtest-xp2p.p2p.huya.com/src/94525224-2711954902-11647757612316884992-4635579152-10057-A-0-1.xs
 小丽说电影,https://txtest-xp2p.p2p.huya.com/src/1199524115248-1199524115248-5275249188530028544-2399048353952-10057-A-0-1.xs
-
-
 
 🧨NewTv,#genre#
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
