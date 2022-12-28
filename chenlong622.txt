@@ -139,6 +139,7 @@ NewTV明星大片[19201080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/8888
 NewTV武打世界[19201080],http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225656/index.m3u8
 超级电影,http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225623/index.m3u8
 超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001
 
 百视TV,#genre#
 百视独播,http://tvmvip110.club/bs.php?id=124
@@ -194,6 +195,7 @@ Clarity4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 爱上4K,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226352/1.m3u8
 爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 卫视高清,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
@@ -1293,6 +1295,9 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+翡翠台,http://23.237.10.66:16106
+J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8 
@@ -1301,6 +1306,7 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
+有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 有线直播新闻台,https://api.leonardpark.dev/live/icable/110
 Now直播台,https://api.leonardpark.dev/live/now/331
 澳门有线互动新闻,http://202.175.127.77/live/show/ch2/index.m3u8
