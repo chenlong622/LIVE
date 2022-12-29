@@ -57,6 +57,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
+		        "ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://pan.css.lc/api/v3/file/get/90108/ts.jar?sign=gEBrQ0edOwzcRbuzlWfkRk_uIU0XRCkSwPyzSukJxZU%3D%3A0"
 		},
 		{
 			"key": "KanSJ_spider",
@@ -95,16 +96,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_xpath_球迷2",
-			"name": "⚽🏀球赛",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E7%90%83%E8%BF%B72.json"
 		},
 		{
 			"key": "音乐",
@@ -175,15 +166,6 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"
-		},
-		{
-			"key": "追剧喵",
-			"name": "🐱追剧喵",
-			"type": 3,
-			"api": "csp_ZJMiao",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
 		},
 		{
 			"key": "csp_LibVio",
