@@ -15,7 +15,7 @@
 		},
 		{
 			"key": "csp_Kunyu77",
-			"name": "🍎备份源一",
+			"name": "🧸备份源一",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -24,7 +24,7 @@
 		},
 		{
 			"key": "csp_CZSPP",
-			"name": "🍎备份源二",
+			"name": "🧸备份源二",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -32,27 +32,8 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_Cokemv",
-			"name": "🍎备份源三",
-			"type": 3,
-			"api": "csp_Cokemv",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_AppTT",
-			"name": "🍎备份源四",
-			"api": "csp_AppTT",
-			"type": 3,
-			"filterable": 0,
-			"quickSearch":0,
-			"searchable": 1,
-			"ext": "http://121.205.88.126:7788"
-		},
-		{
 			"key": "Lezhu_spider",
-			"name": "🍎备份源七",
+			"name": "🧸备份源三",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -61,19 +42,19 @@
 			"ext": ""
 		},
 		{
-			"key": "Smdyy",
-			"name": "🍎备份源八",
+			"key": "快看",
+			"name": "🧸备份源四",
 			"type": 3,
-			"api": "csp_Smdyy",
+			"api": "csp_Kuaikan",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
 		},
 		{
-			"key": "快看",
-			"name": "🍎备份源九",
+			"key": "csp_Auete",
+			"name": "🧸备份源五",
 			"type": 3,
-			"api": "csp_Kuaikan",
+			"api": "csp_Auete",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -158,38 +139,10 @@
 			"filterable": 0
 		},
 		{
-			"key": "csp_Auete",
-			"name": "🐼Auete",
-			"type": 3,
-			"api": "csp_Auete",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "csp_Bttoo",
 			"name": "✌两个BT",
 			"type": 3,
 			"api": "csp_Bttoo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_Jianying",
-			"name": "🌟简影",
-			"api": "csp_JianYing",
-			"type": 3,
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjI5MDIzMTEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.IAvkeXIIVKcPV7zqX-WbbaAx7weD-IalizR1lbQvTHA"
-		},
-		{
-			"key": "简影",
-			"name": "🌟简影",
-			"type": 4,
-			"api": "https://vod.kooo.eu.org/t4/vip11b016",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
@@ -229,34 +182,6 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		},
-		{
-			"key": "csp_Tkys",
-			"name": "🌝天空影院",
-			"type": 3,
-			"api": "csp_Tkys",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "csp_dd5555",
-			"name": "🍅555 影视",
-			"api": "csp_Dy555",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1
-		},
-		{
-			"key": "Nfyun",
-			"name": "🌦Nf云",
-			"type": 3,
-			"api": "csp_Nfyun",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": ""
 		},
 		{
 			"key": "csp_Anime1",
