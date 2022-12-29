@@ -41,32 +41,14 @@
 			"filterable": 1
 		},
 		{
-			"key": "spider_IKan",
+			"key": "csp_AppTT",
 			"name": "🍎备份源四",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "293视频",
-			"name": "🍎备份源五",
-			"type": 3,
-			"api": "csp_SP293",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
-			"key": "KanSJ_spider",
-			"name": "🍎备份源六",
-			"api": "csp_KanSJ",
+			"api": "csp_AppTT",
 			"type": 3,
 			"filterable": 1,
 			"quickSearch": 1,
 			"searchable": 1,
-			"ext": ""
+			"ext": "http://121.205.88.126:7788"
 		},
 		{
 			"key": "Lezhu_spider",
