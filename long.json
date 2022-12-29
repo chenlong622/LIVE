@@ -45,8 +45,8 @@
 			"name": "🍎备份源四",
 			"api": "csp_AppTT",
 			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
+			"filterable": 0,
+			"quickSearch":0,
 			"searchable": 1,
 			"ext": "http://121.205.88.126:7788"
 		},
