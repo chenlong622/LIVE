@@ -14,6 +14,16 @@
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
 		{
+			"key": "csp_AppTT",
+			"name": "🆗图图",
+			"type": 3,
+			"api": "csp_AppTT",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+		        "ext":"http://121.205.88.126:7788"
+		},
+		{
 			"key": "csp_Kunyu77",
 			"name": "🧸备份源一",
 			"type": 3,
@@ -1157,6 +1167,7 @@
 		}
 	],
 	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F661F61350BBA840E737D7A64EDC0F44",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
