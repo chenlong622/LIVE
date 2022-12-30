@@ -19,7 +19,7 @@
 			"type": 3,
 			"api": "http://121.205.88.126:7788",
 			"searchable": 1,
-			"quickSearch": 1,
+			"quickSearch": 0,
 			"filterable": 1,
 			"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F661F61350BBA840E737D7A64EDC0F44"
 		},
