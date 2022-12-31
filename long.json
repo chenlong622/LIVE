@@ -223,15 +223,14 @@
 			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
 		},
 		{
-			"key": "Bdys",
-			"name": "🧲磁力高清",
+			"key": "csp_Bd",
+			"name": "💥哔嘀影视",
 			"type": 3,
-			"api": "csp_XPbd",
+			"api": "csp_Bdys01",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bdys.json"
-		},
+	        },
 		{
 			"key": "Gitcafe",
 			"name": "🔖小纸条",
@@ -240,7 +239,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
 		},
 		{
 			"key": "csp_AList",
