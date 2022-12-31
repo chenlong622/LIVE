@@ -435,16 +435,6 @@
 			"ext": "http://45.125.46.61/box/json/%E7%84%A6%E7%82%AD%E5%BD%B1%E8%A7%86.json"
 		},
 		{
-			"key": "csp_xBPQ_蓝光",
-			"name": "❄蓝光影院",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"国产剧$13#动漫$5#日韩剧$2#港台剧$14#电影$1#综艺$3\",\"分类url\":\"https://www.lgyy.cc/vodtype/{cateId}/page/{catePg}---.html\"}"},"
-		},
-		{
 			"key": "csp_xpath_dianyingn",
 			"name": "🐂电影牛XP",
 			"type": 3,
