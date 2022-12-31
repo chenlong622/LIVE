@@ -69,7 +69,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{"key":"csp_fant","name":"🍙饭团","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 		{"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "音乐",
