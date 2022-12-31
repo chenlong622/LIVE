@@ -232,17 +232,6 @@
 			"filterable": 1
 	        },
 		{
-			"key": "Gitcafe",
-			"name": "📜小纸条",
-			"type": 3,
-			"api": "csp_Gitcafe",
-			"searchable": 1,
-			"playerType":1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
-		},
-		{
 			"key": "csp_AList",
 			"name": "📀盘搜",
 			"type": 3,
