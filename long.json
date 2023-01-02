@@ -5,7 +5,7 @@
 	"sites": [
 		{
 			"key": "小苹果",
-			"name": "🍎主力源",
+			"name": "🧸主力源",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
@@ -15,7 +15,7 @@
 		},
 		{
 			"key": "csp_Kunyu77",
-			"name": "🧸备份源一",
+			"name": "🧸主力源一",
 			"type": 3,
 			"api": "csp_Kunyu77",
 			"searchable": 1,
@@ -24,7 +24,7 @@
 		},
 		{
 			"key": "csp_CZSPP",
-			"name": "🧸备份源二",
+			"name": "🧸主力源二",
 			"type": 3,
 			"api": "csp_Czsapp",
 			"searchable": 1,
@@ -33,7 +33,7 @@
 		},
 		{
 			"key": "Lezhu_spider",
-			"name": "🧸备份源三",
+			"name": "🧸主力源三",
 			"api": "csp_Lezhu",
 			"type": 3,
 			"filterable": 1,
@@ -43,7 +43,7 @@
 		},
 		{
 			"key": "快看",
-			"name": "🧸备份源四",
+			"name": "🧸主力源四",
 			"type": 3,
 			"api": "csp_Kuaikan",
 			"searchable": 1,
@@ -52,7 +52,7 @@
 		},
 		{
 			"key": "csp_Auete",
-			"name": "🧸备份源五",
+			"name": "🧸主力源五",
 			"type": 3,
 			"api": "csp_Auete",
 			"searchable": 1,
