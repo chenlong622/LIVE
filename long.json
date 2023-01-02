@@ -60,8 +60,6 @@
 			"filterable": 1
 		},
 	        {"key":"csp_Xinsj","name":"✨新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://pan.css.lc/api/v3/file/get/90108/ts.jar?sign=gEBrQ0edOwzcRbuzlWfkRk_uIU0XRCkSwPyzSukJxZU%3D%3A0"},
-                {"key":"Ddys","name":"低端","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6","jar":"https://pan.css.lc/api/v3/file/get/90108/ts.jar?sign=gEBrQ0edOwzcRbuzlWfkRk_uIU0XRCkSwPyzSukJxZU%3D%3A0"},
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
