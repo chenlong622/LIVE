@@ -136,7 +136,7 @@ Asia N,https://pull-l3-cny.douyincdn.com/live/2ce10c5078ec753f8f50f4c3897e8f76.m
 CINEMAX,https://pull-l3-cny.douyincdn.com/live/af25e1a3f0fff1e8ea22c55a0c9352f0.m3u8
 
 百视TV,#genre#
-百视独播1，http://tvmvip110.club/bs.php?id=124
+百视独播1,http://tvmvip110.club/bs.php?id=124
 百视独播2,http://tvmvip110.club/bs.php?id=126
 百视独播3,http://tvmvip110.club/bs.php?id=128
 百视独播4,http://tvmvip110.club/bs.php?id=247
