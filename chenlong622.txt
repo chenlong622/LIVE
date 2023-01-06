@@ -169,7 +169,8 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
-4K剧场,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+4k影视1,http://epg.112114.xyz/douyu/9249162
+4k影视2,http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 欢笑剧场4k,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 欢笑剧场4k,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8 
 欢笑剧场4k,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844 
@@ -182,7 +183,6 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 苏州4k,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4k,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
-影院4k,http://epg.112114.xyz/douyu/9249162
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Clarity4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
@@ -198,6 +198,10 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 峨嵋電影4K,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 南國都市4K,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南國都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
+4K测试1,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?
+4K测试2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?
+4K测试3,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?
+
 
 卫视高清,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
