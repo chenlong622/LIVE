@@ -618,7 +618,7 @@
 			"key": "鸭奈飞",
 			"name": "🍹鸭奈飞影视",
 			"type": 0,
-			"api": "csp_yanetflix",
+			"api": "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
 			"searchable": 0,
 			"quickSearch": 0,
 		        "ext":"https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/yanetflix.json"
