@@ -1,24 +1,5 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人学习使用，请勿用于违法用途]
 //
-],	
-        "spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8",
-	"spider":"http://52bsj.vip:81/api/v3/file/get/68478/1215.jar?sign=khMN9e2W4qURwPvVMCEzqy9yCBIrgkFOhBdyEAoYtWc%3D%3A0;md5;58BACE2715918A6FD783931D03586372",
-        "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
-	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-	"lives": [
-		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vY2hlbmxvbmc2MjIudHh0"
-					]
-				}
-			]
-		}
-	],
 {
 	"sites": [
 		{
@@ -623,7 +604,26 @@
 			"searchable": 0,
 			"quickSearch": 0
 		}
-	"parses": [
+	],	
+        "spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8",
+	"spider":"http://52bsj.vip:81/api/v3/file/get/68478/1215.jar?sign=khMN9e2W4qURwPvVMCEzqy9yCBIrgkFOhBdyEAoYtWc%3D%3A0;md5;58BACE2715918A6FD783931D03586372",
+        "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	"lives": [
+		{
+			"group": "redirect",
+			"channels": [
+				{
+					"name": "live",
+					"urls": [
+						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vY2hlbmxvbmc2MjIudHh0"
+					]
+				}
+			]
+		}
+	],
+		"parses": [
 		{
 			"name": "解析聚合",
 			"type": 3,
