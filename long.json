@@ -615,7 +615,7 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "奈飞影视",
+			"key": "csp_XPath_naifei",
 			"name": "🍹鸭奈飞影视(聚)",
 			"type": 0,
 			"api": "csp_XPath",
