@@ -615,10 +615,10 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "MBO 影视",
-			"name": "🍹MBO 影视(聚)",
+			"key": "鸭奈飞影视_最热Netflix新剧_专注于为国内用户提供免费的奈飞影剧",
+			"name": "🍹鸭奈飞影视(聚)",
 			"type": 0,
-			"api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/",
+			"api": "https://yanetflix.com/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
 		}
