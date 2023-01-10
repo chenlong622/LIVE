@@ -62,7 +62,7 @@
                 {"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/alist.json"},
                 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 		{"key":"csp_biubiu_神马接口","name":"🥒神马接口〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/神马接口.json","date":"2023-01-10 12:10:11"},
-	
+	        {"key":"csp_剧荒","name":"👿剧荒","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
@@ -209,10 +209,6 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
 		},
-		{"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
 		{
 			"key": "csp_Bd",
 			"name": "💥哔嘀影视",
