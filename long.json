@@ -200,15 +200,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{
-			"key": "Smdyy",
-			"name": "🐎神马影院",
-			"type": 3,
-			"api": "csp_Smdyy",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
+	{"key":"csp_biubiu_神马接口","name":"🥒神马接口〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/神马接口.json","date":"2023-01-10 12:10:11"},
 		{
 			"key": "csp_Yj1211",
 			"name": "📸直播合集",
