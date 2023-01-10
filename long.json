@@ -211,15 +211,6 @@
 			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
 		},
 		{
-			"key": "csp_Bd",
-			"name": "💥哔嘀影视",
-			"type": 3,
-			"api": "csp_Bdys01",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-	        },
-		{
 			"key": "csp_AList",
 			"name": "📀盘搜",
 			"type": 3,
