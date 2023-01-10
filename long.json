@@ -488,24 +488,6 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
-{"key":"*乐播资源","name":"*🔞乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*博天堂","name":"*🔞博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{"key":"*环亚资源","name":"*🔞环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
-{ "key": "(18+)天堂福利", "name": "🔞天堂福利", "type": 0, "api": "https://bttcj.com/inc/sapi.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "afasu", "name": "🔞小湿妹资源(已修复)", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{"key":"*AVZY6888资源","name":"*🔞AVZY6888资源","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":0,"quickSearch":0},
-{"key":"*色色资源","name":"*🔞色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*玖玖资源","name":"*🔞玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*狼少年","name":"*🔞狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*佳丽资源","name":"*🔞佳丽资源","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*番号资源","name":"*🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*鲨鱼资源","name":"*🔞鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*速度资源","name":"*🔞速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0},
-{"key":"*丝袜资源","name":"*🔞丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
-{"key":"*芒果资源","name":"*🔞芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*KK写真资源","name":"*🔞KK写真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":0,"quickSearch":0}，
-
 		{
 			"key": "阿里影视",
 			"name": "🥤阿里影视(聚)",
