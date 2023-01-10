@@ -74,6 +74,13 @@
             "ext": "c41fdb671b20925c76fa9b6ff8bad027",
             "jar": "http://52bsj.vip:81/api/v3/file/get/71912/ph.jar?sign=rT5lv4JEBvZ2NMIWMBMFwRTKSoiKk-vq3v0NPmT24f0%3D%3A0;md5;97ee205764c3c737804f48f97b3f7be6"
         },
+			{
+            "key" : "drpy_js_布雷蓝光",
+            "name" : "🎑布雷蓝光",
+            "type" : 3,
+            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
+            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"
+        },
 		{"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/alist.json"},
                 {"key":"csp_AList","name":"🅰AList网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
@@ -389,13 +396,6 @@
 			"filterable": 1
 		},
 		{
-            "key" : "drpy_js_布雷蓝光",
-            "name" : "🎑布雷蓝光",
-            "type" : 3,
-            "api" : "https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js",
-            "ext" : "https://gitcode.net/weixin_58340148/box/-/raw/master/js/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"
-        },
-		{
 			"key": "BuLei",
 			"name": "⚡布雷",
 			"type": 3,
@@ -617,8 +617,8 @@
 		}
 	],	
         "spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;203FC17AA0BD99316692CE0BC08760B8",
 	"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;04B747FECDF0AD9BAB5427ABF5EA24C9",
 	"spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
