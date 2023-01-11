@@ -273,10 +273,9 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 峨嵋電影4K,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 南國都市4K,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南國都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-4K测试1,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?
+NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
 4K测试2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8?
 4K测试3,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?
-
 
 卫视高清,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
