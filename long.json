@@ -2,6 +2,16 @@
 //
 {
 	"sites": [
+		 {
+            "key": "js豆瓣1",
+            "name": "🧸豆瓣热播🍎",
+            "type": 3,
+            "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
+            "ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
 		{
 			"key": "csp_Kunyu77",
 			"name": "🧸主力源一🍎",
