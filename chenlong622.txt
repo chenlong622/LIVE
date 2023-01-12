@@ -145,9 +145,6 @@ IPTV高清院线,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bf
 东森洋片台,http://pull-l3-cny.douyincdn.com/third/stream-ed503be0a61dc988e0a7d9e1f57a1885.m3u8
 东森电影台,http://pull-l3-cny.douyincdn.com/third/stream-3d50d525417f450fdbc3fbbf5ac32960.m3u8
 
-
-
-
 百视TV,#genre#
 百视独播1,http://tvmvip110.club/bs.php?id=124
 百视独播2,http://tvmvip110.club/bs.php?id=126
@@ -171,6 +168,7 @@ IPTV高清院线,http://pull-l3-cny.douyincdn.com/third/stream-8ef14dc0eb0f812bf
 百视TV12,http://tvmvip110.club/bs.php?id=229
 百视TV13,http://tvmvip110.club/bs.php?id=228
 百视TV14,http://tvmvip110.club/bs.php?id=246
+
 🍇百视通8M直播,#genre#
 CCTV-16,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
 CCTV-4K,http://aliyun-upcloud-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
