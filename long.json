@@ -11,17 +11,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-{"key":"AppTT","name": "🧸主力源二🍎","type": 3, "api": "csp_Dora", "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
-		{
-			"key": "Lezhu_spider",
-			"name": "🧸主力源三🍎",
-			"api": "csp_Lezhu",
-			"type": 3,
-			"filterable": 1,
-			"quickSearch": 1,
-			"searchable": 1,
-			"ext": ""
-		},
+                {"key":"AppTT","name": "🧸主力源二🍎","type": 3, "api": "csp_Dora", "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
+		{"key": "csp_lezhu","name": "🧸主力源三🍎","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
 		{
 			"key": "快看",
 			"name": "🧸主力源四🍎",
