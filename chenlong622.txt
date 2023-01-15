@@ -105,13 +105,22 @@ CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清電影,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226463/index.m3u8
+HBO,http://line.premiumpowers.net:80/Manuel/1234567/941648
+HBO,http://208.115.225.174:14136
+HBO家庭,http://line.premiumpowers.net:80/Manuel/1234567/941646
+HBO原创,http://line.premiumpowers.net:80/Manuel/1234567/941645
+HBO强档影院,http://line.premiumpowers.net:80/Manuel/1234567/941647
 HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-HBO强档影院,http://pull-l3-cny.douyincdn.com/third/stream-162f0111fdd134e929d72640e6c4ea56.m3u8
+HBO2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO X,http://208.115.225.174:14165
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225764/index.m3u8
 好莱坞影院①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+好莱坞影院①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
 科幻动作经典喜剧,http://epg.112114.xyz/douyu/433225766/index.m3u8
 经典科幻动作灾难,http://epg.112114.xyz/douyu/252802
 科幻影视解说,http://epg.112114.xyz/douyu/3508304
@@ -172,15 +181,23 @@ NewTV武打世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰卫视香港台,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
+TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
+TVB E,http://line.premiumpowers.net:80/Manuel/1234567/153398
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
+TVB戏剧,http://line.premiumpowers.net:80/Manuel/1234567/153400
+TVB星河,http://line.premiumpowers.net:80/Manuel/1234567/941620
 TVB翡翠华丽,http://23.237.10.66:16410$高清1080P
 TVB翡翠华丽,http://23.237.10.66:16410
 TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
+TVB翡翠台,http://line.premiumpowers.net:80/Manuel/1234567/153401
+TVB翡翠台,http://r.jdshipin.com/qClQf
+TVB翡翠海外版,http://line.premiumpowers.net:80/Manuel/1234567/941619
 TVB新闻频道,https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB新闻频道,https://tvp22.sky4k.top/index1.php
 TVB财经体育频道，https://cdn.hklive.tv/xxxx/85/index.m3u8
 TVB财经体育频道2，https://tvp22.sky4k.top/index2.php
 TVB珍珠台，https://cdn.hklive.tv/xxxx/84/index.m3u8
+TVB明珠台,http://r.jdshipin.com/ZQ4kN
 J2,https://j3.lhlh.app/mv.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 HOY TV,https://cdn.hklive.tv/xxxx/77/index.m3u8
@@ -191,15 +208,26 @@ hoy资讯台，https://cdn.hklive.tv/xxxx/78/index.m3u8
 港台電視33,https://live.astradamy.com/hk33/index.m3u8
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
+NOW紫金国际台,http://line.premiumpowers.net:80/Manuel/1234567/941630
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?blog.ntnas.top
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+中天亚洲台，http://line.premiumpowers.net:80/Manuel/1234567/941638
+TVBS新闻台,http://line.premiumpowers.net:80/Manuel/1234567/941622
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8 
+TVBS亚洲台,http://line.premiumpowers.net:80/Manuel/1234567/941621
 TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+卫视中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941628
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941601
+ONE,http://line.premiumpowers.net:80/Manuel/1234567/941602
+NHK,http://line.premiumpowers.net:80/Manuel/1234567/941610
+8TV,http://line.premiumpowers.net:80/Manuel/1234567/941616
+MEDIACORP,http://line.premiumpowers.net:80/Manuel/1234567/941617
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 华语电视,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
@@ -235,6 +263,8 @@ TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 HBOHits,http://baidu.douyincdn.freetvtv.com/hbohits/index.m3u8?blog.ntnas.top
 香港女神系列，http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
 CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+天映,http://line.premiumpowers.net:80/Manuel/1234567/941618
+CCM经典,http://line.premiumpowers.net:80/Manuel/1234567/941639
 靖天欢乐,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天映晝,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
 靖洋卡通,http://www.336699.live:1935/blockfour/4gtv-4gtv057.stream/playlist.m3u8
@@ -245,6 +275,14 @@ CHY电影台,http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.
 迪士尼卡通,http://line.premiumpowers.net:80/Manuel/1234567/941656
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+CINEMA WORLD,http://line.premiumpowers.net:80/Manuel/1234567/941658
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941649
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941650
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941633
+UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941632
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941651
+UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941634
+ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
 
 4K高清,#genre#
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8?
@@ -1434,6 +1472,7 @@ CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
 记录探索,#genre#
+动物星球,http://208.115.225.174:14192
 全纪实,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225654/index.m3u8
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225609/index.m3u8?fmt=ts2hls
