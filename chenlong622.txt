@@ -176,8 +176,7 @@ NewTV武打世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 TVB功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 TVB翡翠华丽,http://23.237.10.66:16410$高清1080P
 TVB翡翠华丽,http://23.237.10.66:16410
-TVB翡翠台,http://23.237.10.66:16106
-TVB翡翠台,http://23.237.10.66:16410
+TVB翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 TVB新闻频道,https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB新闻频道,https://tvp22.sky4k.top/index1.php
 TVB财经体育频道，https://cdn.hklive.tv/xxxx/85/index.m3u8
