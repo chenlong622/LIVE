@@ -7,7 +7,7 @@ var rule={
     quickSearch:1,
     filterable:0,
     headers:{'User-Agent':'MOBILE_UA',         },     
-    class_name:'电影&电视剧&综艺&动漫&纪录片&国产剧&港剧&日剧&欧美剧&韩剧&泰剧&台剧&海外剧',     
+    class_name:'电影&电视剧&动漫',     
     class_url:'1&2&3&4&27&13&46&15&16&45&34&14&35',     
     推荐:'.module-poster-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
     一级:'.module-poster-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
