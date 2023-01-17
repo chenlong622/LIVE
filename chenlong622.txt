@@ -194,6 +194,7 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠海外版,http://line.premiumpowers.net:80/Manuel/1234567/941619
 TVB新闻频道,https://cdn.hklive.tv/xxxx/83/index.m3u8
 TVB新闻频道,https://tvp22.sky4k.top/index1.php
+TVB無線財經·體育·資訊台,http://43.128.40.42:2212/tvb.php?id=2&hq
 TVB财经体育频道，https://cdn.hklive.tv/xxxx/85/index.m3u8
 TVB财经体育频道2，https://tvp22.sky4k.top/index2.php
 TVB珍珠台，https://cdn.hklive.tv/xxxx/84/index.m3u8
@@ -211,8 +212,8 @@ ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 NOW紫金国际台,http://line.premiumpowers.net:80/Manuel/1234567/941630
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8?blog.ntnas.top
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 有线新闻台,https://api.leonardpark.dev/live/icable/109
 有线新闻台,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 中天亚洲台，http://line.premiumpowers.net:80/Manuel/1234567/941638
@@ -235,26 +236,13 @@ MEDIACORP,http://line.premiumpowers.net:80/Manuel/1234567/941617
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
 TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 TW台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心台,http://124.238.99.44:808/hls/363/index.m3u8
-大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 好消息电视台1,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
 好消息电视台2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
-有線新闻,http://gslb.cdn.hk.chinamobile.com/live/6aec56586c324021927637a750c1811e/cb76365be43b4ba598eb2f2ef3cffcd9-3.m3u8
-点掌+财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
-点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8 
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
+长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8 
+卫视中文台,http://line.premiumpowers.net:80/Manuel/1234567/941624
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 时装模特imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
@@ -283,6 +271,16 @@ UHB都会,http://line.premiumpowers.net:80/Manuel/1234567/941632
 UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941651
 UHB娱家,http://line.premiumpowers.net:80/Manuel/1234567/941634
 ROCK,http://line.premiumpowers.net:80/Manuel/1234567/941643
+BBC CBEEBIES,http://line.premiumpowers.net:80/Manuel/1234567/941672
+NICK CLODEON,http://line.premiumpowers.net:80/Manuel/1234567/941671
+CART NITO,http://line.premiumpowers.net:80/Manuel/1234567/941673
+国家地理1,http://line.premiumpowers.net:80/Manuel/1234567/941664
+国家地理2,http://line.premiumpowers.net:80/Manuel/1234567/941665
+无线新闻,http://line.premiumpowers.net:80/Manuel/1234567/153399
+TVB 戏剧,http://line.premiumpowers.net:80/Manuel/1234567/153400
+F新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
+F新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
+HISTORY,http://line.premiumpowers.net:80/Manuel/1234567/941661
 
 4K高清,#genre#
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8?
