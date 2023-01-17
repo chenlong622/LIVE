@@ -1,5 +1,5 @@
 var rule={     
-    title:'布雷蓝光',     
+    title:'布雷蓝光1',     
     host:'https://www.bulei.cc',     
     url:'/index.php/vod/show/by/time/id/fyclass/page/fypage.html',
     searchUrl:'/index.php/vod/search/page/fypage/wd/**.html', 
