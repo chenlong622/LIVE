@@ -1,6 +1,6 @@
 var rule = {
-	title:'天天视频',
-	host:'http://www.ttsp.tv',
+	title:'蓝光影院',
+	host:'https://www.lgyy.cc/',
 	// url:'/vodshow/fyclass--------fypage---.html',
 	url:'/vodshow/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
