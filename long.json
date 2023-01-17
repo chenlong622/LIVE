@@ -56,27 +56,6 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
 		},
-		 {
-      "key": "csp_xpath_jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/jpys.json"
-    },
-    {
-      "key": "csp_xpath_age",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/agefans.json"
-    },
-    {
-      "key": "csp_xpath_jpyszl",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/jpys.json"
-    },
 		{
 			"key": "热舞",
 			"name": "💃女团热舞",
