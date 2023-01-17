@@ -55,7 +55,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"
 		},
-		{"key":"drpy_js_IMAX影视","name" : "🎑IMAX影视", "type" : 3,"api" : "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/drpy.js","ext" : "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/IMAX%E5%BD%B1%E8%A7%86.js"},
+		{"key":"drpy_js_布雷蓝光","name" : "🎑布雷蓝光", "type" : 3,"api" : "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/drpy.js","ext" : "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/%E5%B8%83%E9%9B%B7%E8%93%9D%E5%85%89.js"},
 		{
 			"key": "热舞",
 			"name": "💃女团热舞",
