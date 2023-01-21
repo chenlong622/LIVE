@@ -165,6 +165,8 @@ NewTV武打世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 
 港台直播,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8 
+凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top
+凤凰中文,http://139.9.188.172:5678/sxg.php?id=test1_4000
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
@@ -172,6 +174,7 @@ NewTV武打世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8 
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv2.m3u8 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰资讯,http://139.9.188.172:5678/sxg.php?id=test2_4000
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
@@ -180,6 +183,7 @@ NewTV武打世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
+凤凰卫视香港台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰卫视香港台,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 TVB1,http://line.premiumpowers.net:80/Manuel/1234567/153396
 TVB E,http://line.premiumpowers.net:80/Manuel/1234567/153398
@@ -281,6 +285,8 @@ TVB 戏剧,http://line.premiumpowers.net:80/Manuel/1234567/153400
 F新时代1,http://line.premiumpowers.net:80/Manuel/1234567/90351
 F新时代2,http://line.premiumpowers.net:80/Manuel/1234567/90352
 HISTORY,http://line.premiumpowers.net:80/Manuel/1234567/941661
+星空衛視,http://107.151.203.111:2209/135/hk.php?id=xkwst
+東森電影,http://107.151.203.111:2209/135/hk.php?id=dsdyt
 
 4K高清,#genre#
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8?
@@ -1058,6 +1064,7 @@ NewTV超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 埋堆堆66,http://txtest-xp2p.p2p.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.xs
 
 体育频道,#genre#
+魅力足球 8M,https://www.whalenas.com/bestv/index.php?id=mlyyhd8m/8000000
 五星体育,http://183.207.255.207/live/program/live/ssty/4000000/mnf.m3u8?世界杯WorldCup
 五星体育,http://183.207.255.196/live/program/live/ssty/4000000/mnf.m3u8?世界杯WorldCup
 五星体育,http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
@@ -1420,9 +1427,21 @@ CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212256
 七彩戏剧,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227212/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 
 动画,#genre#
+宝宝动画8M,https://www.whalenas.com/bestv/index.php?id=bbdh8m/8000000
 黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
+动漫秀场8M,https://www.whalenas.com/bestv/index.php?id=dmxc8m/8000000
+动漫秀场8M,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+北京卡酷,https://www.whalenas.com/bestv/index.php?id=kkse8m/8000000
+北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+北京卡酷,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
+北京卡酷,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
+北京卡酷,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
+炫动卡通8M,https://www.whalenas.com/bestv/index.php?id=hhxd8m/8000000
+炫动卡通8M,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+炫动卡通8M,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
+炫动卡通8M,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
+炫动卡通8M,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8?blog.ntnas.top
 CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225640/index.m3u8
@@ -1432,15 +1451,7 @@ CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m
 江西少儿,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225577/2/index.m3u8?fmt=ts2hls?zjiangxd
 金鹰卡通,http://223.151.51.27:85/tsfile/live/1016_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
 金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-北京卡酷,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-北京卡酷,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
-北京卡酷,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-哈哈炫动,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
-哈哈炫动,http://183.207.255.188/live/program/live/hhxdhd/4000000/mnf.m3u8
-哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 杭州少儿,http://hms403nc1880172791.live.aikan.miguvideo.com/wh7f454c46tw2117141557_-1207487654/PLTV/88888888/224/3221229316/index.m3u8
 宝宝巴士,http://118.26.120.35:55336/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key=0b292c335e5837e947f9409c59228f3e6
 宝宝课堂,http://118.26.120.23:55336/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
@@ -1477,9 +1488,9 @@ CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m
 上海纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225655/index.m3u8
 北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
 北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
-快乐垂钓[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-茶频道[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
-金鹰纪实[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+茶频道,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
