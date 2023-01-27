@@ -1,5 +1,5 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人学习使用，请勿用于违法用途]
-//
+//:"./Yoursmile.jar"
 {
 	"sites": [
 		{
@@ -455,7 +455,6 @@
 	"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;678BD405252EEB8EF98596EFA77B6092",
 	"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
         "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
-	"spider":"./Yoursmile.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
