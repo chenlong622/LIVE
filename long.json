@@ -46,11 +46,10 @@
 		{"key":"csp_Bd","name":"💥哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"厂长影视","name":"️🕵厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"date":"2023-01-10 18:35:15"},
                 {"key":"csp_xbb_555电影","name":"🍀555影视〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"http://www.dmtv.ml/mao/ext/555电影.json","date":"2023-02-02 19:40:15"},
-		{"key":"csp_xpath_saohuotv","name":"💢骚火电影①〔XP〕","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXP/saohuotv2.json","date":"2023-02-02 19:40:15"},
+		{"key": "csp_biubiu_骚火电影","name": "🔥骚火电影","type": 3,"api": "csp_XBiubiu","searchable": 1,	"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61556/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=PUGqnmN-H_30G7ELMQztiwdaoirjRY9xPvLqr0uGvd8%3D%3A0"	},
 		{"key":"csp_biubiu_骚火电影","name":"💢骚火电影②〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json","date":"2023-02-02 19:40:15"},
 		{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢ZBK影院〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json","date":"2023-02-02 19:40:15"},
-		{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Nmys","name":"🥝农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Nmys.json"},
+		{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
@@ -461,7 +460,6 @@
 	"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
         "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
 	"spider":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	"spider":"./Yoursmile.jar",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
