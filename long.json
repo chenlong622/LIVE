@@ -453,10 +453,10 @@
 			"quickSearch": 0
 		}	
 	],	
-       "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;5F7E225597A5CAA094F8406E774BA8DE",
+       "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;5F7E225597A5CAA094F8406E774BA8DE",
 	"spider":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372",
         "spider":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f",
-	 "spider":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+	"spider":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 	"lives": [
 		{
