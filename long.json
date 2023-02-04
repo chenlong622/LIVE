@@ -31,7 +31,7 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-	        {"key":"csp_SP293","name":"🧸主力源六-4K🍎","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"date":"2023-01-05 13:00:12"},
+	        {"key":"csp_SP293","name":"🧸主力源六-4K🍎","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 		{"key":"drpy_js_Alist","name":"网盘4K | Alist[js]","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/alist.json"},
 		{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"date":"2023-01-15 19:20:17"},
 		{"key": "csp_Czsapp","name": "🐰厂长蓝光","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
