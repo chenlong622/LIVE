@@ -37,7 +37,7 @@
 		{"key": "csp_Czsapp","name": "🐰厂长蓝光","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_新视觉","name":"🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"},   
 		{"key": "csp_biubiu_影视工厂","name": "🎑影视工厂","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61555/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json?sign=30JHwwq5hE4YG_7diB8H8J4WZOQvmPtx0cliXcYtPAI%3D%3A0"},
-		{"key":"BuLei","name":"⚡布雷蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},
+		{"key":"BuLei","name":"⚡布雷蓝光","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1，"jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 	        {"key":"mtv_pc_焦炭影视","name":"🔥焦炭影视","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 		{"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},   
                 {"key":"csp_xbb_city电影","name":"🍀城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61564/city%E7%94%B5%E5%BD%B1.json?sign=FqgC9vhuQyK4ckz6Zet3Ks0NiXXNlKg3x2PsuZbOQsg%3D%3A0"}, 
