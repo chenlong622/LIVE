@@ -90,6 +90,16 @@
             "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
         },
 		{
+            "key": "高中",
+            "name": "高中(爬虫)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f",
+            "ext": "https://dxawi.github.io/1/json/xx5.json"
+        }
+		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
 			"type": 3,
