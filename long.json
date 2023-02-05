@@ -80,6 +80,9 @@
             "quickSearch": 1,
             "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
         },
+		{"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
+		{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
+		{"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
