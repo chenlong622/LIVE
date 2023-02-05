@@ -71,6 +71,16 @@
            "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f",
 	   "ext": "bdc1c75081e5e477189a463baa47e392"
         },
+		 {
+            "key": "Ddrk",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddrk",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+        "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
+	 },
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
