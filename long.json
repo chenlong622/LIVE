@@ -33,6 +33,7 @@
 		},
 	        {"key":"csp_SP293","name":"🧸主力源六-4K🍎","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar": "http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 		{"key":"drpy_js_Alist","name":"网盘4K | Alist[js]","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/alist.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/alist.json"},
+		{"key": "csp_xpath_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
 		{"key":"csp_Bttwoo","name":"✌2BT(SP)","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://www.dmtv.ml/mao/jar/dmtv.jar;md5;c1f7f674e37a33cce4dc046c59f97b2f"},
 		{"key": "csp_Czsapp","name": "🐰厂长蓝光","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_新视觉","name":"🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"},   
@@ -47,55 +48,19 @@
 		{"key":"csp_biubiu_骚火电影","name":"💢骚火电影②〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/shdy.json","date":"2023-02-02 19:40:15"},
 		{"key":"csp_biubiu_真不卡影院(不支持搜索)","name":"💢ZBK影院〔XB〕","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/zhenbuka.json","date":"2023-02-02 19:40:15"},
 		{"key":"csp_biubiu_dadagui","name":"🐢达达龟","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/guot54/ygbh/raw/branch/master/XB/dadagui.json"},
-	        {"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
-                {"key":"csp_BBB","name":"🅱️bili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/BBB.json"},
-		{"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-{"key": "戏曲","name": "🅱️戏曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33115/%E6%88%8F%E6%9B%B2.json?sign=dKQjA0Cnr7RHc3NkFbhjCLD7AmXE6SD5OF8pDlONKxs%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-{"key": "MV","name": "🅱️歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33112/%E6%AD%8C%E6%9B%B2MV.json?sign=KB_Qwrac-uvlJFIVoaZNoyFKolNnM9ETQxd61-_wRsE%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-{"key": "少儿","name": "🅱️教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33113/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-		{
-            "key": "农民",
-            "name": "农民(爬虫)",
-            "type": 3,
-            "api": "csp_Nmys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-           "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f",
-	   "ext": "https://gst163.github.io/s/nongminyingshi.json"
-        }, {
-            "key": "csp_BuLei",
-            "name": "布雷(爬虫)",
-            "type": 3,
-            "api": "csp_BuLei",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1, "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
-        },
-		 {
-            "key": "Tian",
-            "name": "天天(爬虫)",
-            "type": "3",
-            "api": "csp_Dora",
-            "playerType": 2,
-            "searchable": "1",
-            "quickSearch": "1",
-            "filterable": "1",
-           "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f",
-	   "ext": "bdc1c75081e5e477189a463baa47e392"
-        },
-		{
-            "key": "Lgyy",
-            "name": "蓝光影院(爬虫)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"
-        },
+                {"key": "农民", "name": "农民(爬虫)","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f","ext": "https://gst163.github.io/s/nongminyingshi.json"}, 
+		{"key": "csp_BuLei","name": "布雷(爬虫)","type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1, "jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"},
+		{ "key": "Tian","name": "天天(爬虫)","type": "3","api": "csp_Dora","playerType": 2,"searchable": "1","quickSearch": "1","filterable": "1","jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f","ext": "bdc1c75081e5e477189a463baa47e392"},
+		{"key": "Lgyy","name": "蓝光影院(爬虫)","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;59e72aace81382dcce86b9b73998aa7f"},
 		{"key":"csp_panghu","name":"🐯胖虎","type":3,"api":"csp_Panghu","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
 		{"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
 		{"key":"csp_Dy1010","name":"🔟双十","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
+		{"key": "演唱会","name": "🅱️演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
+                {"key": "MV","name": "🅱️歌曲MV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33112/%E6%AD%8C%E6%9B%B2MV.json?sign=KB_Qwrac-uvlJFIVoaZNoyFKolNnM9ETQxd61-_wRsE%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
+                {"key": "少儿","name": "🅱️教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/33113/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
+		{"key":"csp_Bili","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bili.json"},
+                {"key":"csp_BBB","name":"🅱️bili","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/BBB.json"},
+		
 		{
 			"key": "音乐",
 			"name": "🎤音乐现场",
@@ -184,8 +149,6 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-		{"key":"Ying","name":"🌸樱花","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"Ysj","name":"📮异世界","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"filterable":1},
 		{
 			"key": "csp_Anime1",
 			"name": "🌸动漫",
@@ -214,17 +177,7 @@
 			"filterable": 1,
 			"ext": "http://45.125.46.61/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
 		},
-		{
-			"key": "csp_xpath_yinfans",
-			"name": "💥音范丝4K",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
-		},
-                {
+	        {
 			"key": "csp_xpath_kuqimv",
 			"name": "🎤经典MV",
 			"type": 3,
