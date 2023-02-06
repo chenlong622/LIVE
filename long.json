@@ -39,7 +39,7 @@
 		{"key": "csp_Czsapp","name": "🐰厂长蓝光","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_新视觉","name":"🍁新视觉","type": 3,"api": "csp_Xinsj","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"},   
 		{"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
-		
+		{"key":"csp_QQ","name":"🐧腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/1215.jar;md5;58BACE2715918A6FD783931D03586372"},
 		{"key": "csp_xpath_lenxitv","name": "🎞️冷曦影视(XPF)","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/lenxi.json"},   
                 {"key":"csp_xbb_city电影","name":"🍀城市电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://52bsj.vip:81/api/v3/file/get/61564/city%E7%94%B5%E5%BD%B1.json?sign=FqgC9vhuQyK4ckz6Zet3Ks0NiXXNlKg3x2PsuZbOQsg%3D%3A0"}, 
                 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"},
