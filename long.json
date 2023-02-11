@@ -4,7 +4,7 @@
 	"sites": [
 		{
 			"key": "小苹果",
-			"name": "🧸主力源🍎",
+			"name": "🍎主力源🧸",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
