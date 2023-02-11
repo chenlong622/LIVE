@@ -1,25 +1,41 @@
 {
 	"urls": [{
 			"url": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/long.json",
-			"name": "自用线路"
+			"name": "狗熊线路"
 		},
 		{
 			"url": "http://刚刚.live/猫",
-			"name": "刚刚"
+			"name": "刚刚线路"
 		},
 		 {
 			"url": "http://aikantv.ga/tvbox.json",
-			"name": "爱看"
+			"name": "爱看线路"
 		},
 		{
-			"url": " https://神器每日推送.tk/pz.json",
-			"name": "神器"
+			"url": "https://神器每日推送.tk/pz.json",
+			"name": "神器线路"
 		},
 		 {
-			"url": " http://肥猫.love",
-			"name": "肥猫"
+			"url": "http://肥猫.love",
+			"name": "肥猫线路"
 		}, 
-		{
+	        {
+			"url": "http://pandown.pro/tvbox/tvbox.json",
+			"name": "巧儿线路"
+		}, 
+		 {
+			"url": "http://home.jundie.top:81/top98.json",
+			"name": "俊哥线路"
+		},
+		 {
+			"url": "http://drpy.site/js1",
+			"name": "小雅线路"
+		},
+		 {
+			"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+			"name": "云星线路"
+		},
+		 {
 			"url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
 			"name": "18"
 		}
