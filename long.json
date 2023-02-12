@@ -21,7 +21,8 @@
 			"quickSearch": 1,
 			"filterable": 1
 		},
-                {"key":"AppTT","name": "🧸图图🍎","type": 3, "api": "csp_Dora", "jar": "https://gitlab.com/ygbh1/666/-/raw/main/JAR/pandatt.jar;md5; 3D6C99CAE168DA455AA766618BE7B604","ext": "110c922de7d69804467fb83d3bb664b5"},
+                {"key": "csp_AppTT","name": "🐰图图影视","type": 3,"api": "csp_AppTT2","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,
+                        "ext": "http://124.248.68.16:6611$$$U1JLI2UlNFVZdFUjS2lFbyp2c1BxcHIwY0M0YnhBUVc=$$$bzZzWW1tKng1aG4jcmNDdA==","jar":"http://我不是.肥猫.love:63/Jar/panda230203.jar;md5;EE39D6223759E1B9683EFD45D15F9134"},
 		{"key": "csp_lezhu","name": "🧸乐猪🍎","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
 		{
 			"key": "快看",
