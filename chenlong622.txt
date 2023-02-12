@@ -107,6 +107,8 @@ CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 CHC高清電影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8?blog.ntnas.top
 CHC高清電影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清電影,http://dbiptv.sn.chinamobile.com/TVOD/88888893/224/3221226463/index.m3u8
+4K超高清电影,http://159.75.85.63:5681/sxg.php
+4K影视,http://159.75.85.63:5828/4kys.php
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
@@ -284,11 +286,13 @@ TVB明珠台,http://r.jdshipin.com/ZQ4kN
 J2,https://j3.lhlh.app/mv.m3u8
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
-4K高清,#genre#
+4K-8K高清,#genre#
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8?
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 北京BesTV-4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
+江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
 纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
@@ -298,6 +302,7 @@ CCTV-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/i
 欢笑剧场4k,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844 
 欢笑剧场4k,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8 
 欢笑剧场4k,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230739/index.m3u8 
+芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4k,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4k,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
@@ -305,6 +310,7 @@ CCTV-4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/i
 苏州4k,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4k,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
+河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 Clarity4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
@@ -319,7 +325,8 @@ LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 峨嵋電影4K,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 南國都市4K,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 南國都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-NASA 4k 60P,http://cdnx1.plusx.tv:8880/NASA/mono.m3u8?token=24cce35b06aecc51433333
+BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdihttp://159.75.85.63:35455/huya/shangdi
 
 卫视高清,#genre#
 北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
@@ -850,8 +857,17 @@ NewTV超级电视剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212
 埋堆堆60,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
 埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
 埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
+
 体育频道,#genre#
-魅力足球 8M,https://www.whalenas.com/bestv/index.php?id=mlyyhd8m/8000000
+Bt1,http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=20360&extension=ts&play_token=xIpX8ZF1A8
+Star1,http://193.107.202.221:81/play/live.php?mac=00:1A:79:CA:4F:22&stream=162697&extension=ts&play_token=8Wtsx5W5M7
+Eleven Sport1,http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/925.ts
+Eleven Sport2,http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/923.ts
+Eleven Sport3,http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/922.ts
+SportTv1,http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/848.ts
+SportTv2, http://user.scalecdn.co:8080/live/mediahost247/9005e2c50a/846.ts
+Ziggo Sport 4K,http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+V Sports UHD,http://clientsportals.com:2095/d4Je5xwD/yadTXB63/114242
 五星体育,http://183.207.255.207/live/program/live/ssty/4000000/mnf.m3u8?世界杯WorldCup
 五星体育,http://183.207.255.196/live/program/live/ssty/4000000/mnf.m3u8?世界杯WorldCup
 五星体育,http://183.207.255.197/live/program/live/ssty/4000000/mnf.m3u8
