@@ -1146,12 +1146,6 @@ CGTN记录,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/32212256
 黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 动漫秀场8M,https://www.whalenas.com/bestv/index.php?id=dmxc8m/8000000
 动漫秀场8M,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
-北京卡酷,https://www.whalenas.com/bestv/index.php?id=kkse8m/8000000
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
-北京卡酷,http://39.135.138.60:18890/PLTV/88888888/224/3221225677/index.m3u8?zbeid
-北京卡酷,http://39.136.66.39/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225732/1/index.m3u8?fmt=ts2hls
-北京卡酷,http://111.59.189.40:8445/tsfile/live/1015_1.m3u8
 炫动卡通8M,https://www.whalenas.com/bestv/index.php?id=hhxd8m/8000000
 炫动卡通8M,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 炫动卡通8M,http://112.25.48.13/live/program/live/hhxdhd/4000000/mnf.m3u8
