@@ -20,6 +20,10 @@
 			"sourceUrl": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/4.json"
 		},
 		{
+			"sourceName": "🥕欧歌仓库",
+			"sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
+		},
+		{
 			"sourceName": "💚多多优选仓",
 			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
 		},
@@ -30,10 +34,6 @@
 		{
 			"sourceName": "❤️多多聚合仓",
 			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/3.txt"
-		},
-		{
-			"sourceName": "🥕欧歌仓库",
-			"sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
 		}
 	]
 }
