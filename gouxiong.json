@@ -40,6 +40,14 @@
 			"name": "云星线路"
 		},
 		 {
+			"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
+			"name": "月光宝盒PRO线路"
+		},
+		 {
+			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/12",
+			"name": "十二线路"
+		},
+		 {
 			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/11",
 			"name": "无痕线路"
 		}
