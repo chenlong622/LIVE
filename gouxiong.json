@@ -11,10 +11,6 @@
 			"url": "http://刚刚.live/猫",
 			"name": "刚刚线路"
 		},
-		 {
-			"url": "http://aikantv.ga/tvbox.json",
-			"name": "爱看线路"
-		},
 		{
 			"url": "https://神器每日推送.tk/pz.json",
 			"name": "神器线路"
@@ -42,6 +38,10 @@
 		 {
 			"url": "https://agit.ai/guot54/ygbh/raw/branch/master/PRO.json",
 			"name": "月光宝盒PRO线路"
+		},
+		{
+			"url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
+			"name": "爱看线路"
 		},
 		 {
 			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/12",
