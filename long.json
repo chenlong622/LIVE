@@ -1,8 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人学习使用，请勿用于违法用途]
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	"sites": [
-		{
+	"sites": [{
 			"key": "小苹果",
 			"name": "🍎主力源🧸",
 			"type": 3,
@@ -12,50 +11,286 @@
 			"filterable": 1,
 			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
 		},
-{"key":"csp_BuLei","name":"🎑布雷┃直连","type":3,"api":"csp_BuLei","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_AppMr","name":"👻明明┃App","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_fantuan","name":"🍙饭团┃直连","type":3,"api":"csp_Fantuan","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Vofl","name":"🎈Voflix┃直连","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Xinsj","name":"🐼新视觉┃直连","type":3,"api":"csp_Xinsj","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","m3u8ads": "hd.youyhn.com","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_DiDuan" ,"name":"⏮️低端┃直连","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Cokemv","name":"📕可乐┃直连","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Auete","name":"🏝Auete┃直连","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Bttoo","name":"✌BTtwo┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Lib","name": "🌟Libvio┃直连","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://tv.libvio.cc/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_zxzj","name":"📗在线┃直连","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.org","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_zxzjH3","name":"📗在线H3┃影视","type":3,"api":"csp_ZxzjH3","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzjhd.com","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Lgyy","name":"🌀蓝光┃直连","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.tv","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Smdyy","name": "🐴神马┃直连","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Bd","name":"💥哔嘀┃直连","type":3,"api":"csp_Bdys01","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Nmys","name":"🌾农民┃直连","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/nmys.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Ysgc","name":"🏭工厂┃直连","type":3,"api":"csp_Ysgc","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.vip","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_panghu","name":"🐯胖虎┃直连","type":3,"api":"csp_Panghu","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_555","name":"5️⃣️555┃直连","type":3,"api":"csp_Ys555","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Nkdy","name":"👓耐看┃直连","type":3,"api":"csp_Nkdy","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"},
-{"key":"csp_Hlsp","name":"💣黑料┃直连","type":3,"api":"csp_Hlsp","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/json/黑料.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"}
-{"key":"csp_XYQHiker皮皮鸭","name":"️🌸皮皮鸭┃嗅探","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://饭太硬.ga/x/XYQ/皮皮鸭.json","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"}	
-],	
-	 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
-	 "spider":"http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-	  "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B0BA72140B1828C8907F53CF0667493C",
-	"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-	 "lives": [
 		{
-			"group": "redirect",
-			"channels": [
-				{
-					"name": "live",
-					"urls": [
-						"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvY2hlbmxvbmc2MjIvTElWRS9yYXcvYnJhbmNoL21haW4vY2hlbmxvbmc2MjIudHh0"
-					]
-				}
-			]
+			"key": "csp_BuLei",
+			"name": "🎑布雷┃直连",
+			"type": 3,
+			"api": "csp_BuLei",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.bulei.cc",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_77",
+			"name": "👒七七┃App",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_AppMr",
+			"name": "👻明明┃App",
+			"type": 3,
+			"api": "csp_AppMr",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_fantuan",
+			"name": "🍙饭团┃直连",
+			"type": 3,
+			"api": "csp_Fantuan",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.fantuanhd.com",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Vofl",
+			"name": "🎈Voflix┃直连",
+			"type": 3,
+			"api": "csp_Voflix",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Xinsj",
+			"name": "🐼新视觉┃直连",
+			"type": 3,
+			"api": "csp_Xinsj",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.6080dy3.com",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Czsapp",
+			"name": "📔厂长┃直连",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"m3u8ads": "hd.youyhn.com",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_DiDuan",
+			"name": "⏮️低端┃直连",
+			"type": 3,
+			"api": "csp_Ddrk",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Cokemv",
+			"name": "📕可乐┃直连",
+			"type": 3,
+			"api": "csp_Cokemv",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Auete",
+			"name": "🏝Auete┃直连",
+			"type": 3,
+			"api": "csp_Auete",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Bttoo",
+			"name": "✌BTtwo┃直连",
+			"type": 3,
+			"api": "csp_Bttwoo",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Lib",
+			"name": "🌟Libvio┃直连",
+			"type": 3,
+			"api": "csp_Libvio",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://tv.libvio.cc/",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_zxzj",
+			"name": "📗在线┃直连",
+			"type": 3,
+			"api": "csp_Zxzj",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.zxzj.org",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_zxzjH3",
+			"name": "📗在线H3┃影视",
+			"type": 3,
+			"api": "csp_ZxzjH3",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.zxzjhd.com",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Lgyy",
+			"name": "🌀蓝光┃直连",
+			"type": 3,
+			"api": "csp_Lgyy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.lgyy.tv",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Smdyy",
+			"name": "🐴神马┃直连",
+			"type": 3,
+			"api": "csp_Smdyy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Bd",
+			"name": "💥哔嘀┃直连",
+			"type": 3,
+			"api": "csp_Bdys01",
+			"playerType": 1,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Nmys",
+			"name": "🌾农民┃直连",
+			"type": 3,
+			"api": "csp_Nmys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://饭太硬.ga/x/json/nmys.json",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Ysgc",
+			"name": "🏭工厂┃直连",
+			"type": 3,
+			"api": "csp_Ysgc",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.ysgc.vip",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_panghu",
+			"name": "🐯胖虎┃直连",
+			"type": 3,
+			"api": "csp_Panghu",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_555",
+			"name": "5️⃣️555┃直连",
+			"type": 3,
+			"api": "csp_Ys555",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.555dyy1.com",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Nkdy",
+			"name": "👓耐看┃直连",
+			"type": 3,
+			"api": "csp_Nkdy",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+		{
+			"key": "csp_Hlsp",
+			"name": "💣黑料┃直连",
+			"type": 3,
+			"api": "csp_Hlsp",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://饭太硬.ga/x/json/黑料.json",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
+		},
+        {
+			"key": "csp_XYQHiker皮皮鸭",
+			"name": "️🌸皮皮鸭┃嗅探",
+			"type": 3,
+			"api": "csp_XYQHiker",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
 		}
 	],
-		"parses": [
-		{
+	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
+	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;B0BA72140B1828C8907F53CF0667493C",
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	"lives": [{
+		"group": "redirect",
+		"channels": [{
+			"name": "live",
+			"urls": [
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9jb2RlYmVyZy5vcmcvY2hlbmxvbmc2MjIvTElWRS9yYXcvYnJhbmNoL21haW4vY2hlbmxvbmc2MjIudHh0"
+			]
+		}]
+	}],
+	"parses": [{
 			"name": "解析聚合",
 			"type": 3,
 			"url": "Demo"
@@ -165,11 +400,9 @@
 		"bilibili",
 		"renrenmi"
 	],
-	"ijk": [
-		{
+	"ijk": [{
 			"group": "软解码",
-			"options": [
-				{
+			"options": [{
 					"category": 4,
 					"name": "opensles",
 					"value": "0"
@@ -248,8 +481,7 @@
 		},
 		{
 			"group": "硬解码",
-			"options": [
-				{
+			"options": [{
 					"category": 4,
 					"name": "opensles",
 					"value": "0"
