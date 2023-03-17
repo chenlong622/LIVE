@@ -2,15 +2,15 @@
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
 	"sites": [{
-			"key": "小苹果",
-			"name": "🍎主力源🧸",
-			"type": 3,
-			"api": "csp_LiteApple",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "http://45.125.46.61/xpg.jar;md5;d3828dbc91d98c3ebc258e6f7874a30c"
-		},
+			"key": "csp_apple",
+	                "name": "🍎苹果┃App",
+	                "type": 3,
+	                "api": "csp_LiteApple",
+	                "playerType": 1,
+	                "searchable": 1,
+	                "quickSearch": 1,
+	                "filterable": 1
+},
 		{
 			"key": "csp_BuLei",
 			"name": "🎑布雷┃直连",
@@ -332,7 +332,6 @@
 			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9"
 		}
 	],
-	"spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
 	"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
