@@ -19,7 +19,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.bulei.cc",
+			"ext":"https://www.bulei.cc"
 		},
 		{
 			"key": "csp_77",
@@ -28,7 +28,7 @@
 			"api": "csp_Kunyu77",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_AppMr",
@@ -38,7 +38,7 @@
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_fantuan",
@@ -49,7 +49,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.fantuanhd.com",
+			"ext": "https://www.fantuanhd.com"
 		},
 		{
 			"key": "csp_Vofl",
@@ -58,8 +58,8 @@
 			"api": "csp_Voflix",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-		},
+			"filterable": 1
+		}
 		{
 			"key": "csp_Xinsj",
 			"name": "🐼新视觉┃直连",
@@ -69,7 +69,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.6080dy3.com",
+			"ext": "https://www.6080dy3.com"
 		},
 		{
 			"key": "csp_Czsapp",
@@ -80,7 +80,7 @@
 			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_DiDuan",
@@ -89,7 +89,7 @@
 			"api": "csp_Ddrk",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 0,
+			"filterable": 0
 		},
 		{
 			"key": "csp_Cokemv",
@@ -99,7 +99,7 @@
 			"playerType": 2,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Auete",
@@ -108,7 +108,7 @@
 			"api": "csp_Auete",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Bttoo",
@@ -117,7 +117,7 @@
 			"api": "csp_Bttwoo",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Lib",
@@ -127,7 +127,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://tv.libvio.cc/",
+			"ext": "https://tv.libvio.cc/"
 		},
 		{
 			"key": "csp_zxzj",
@@ -137,7 +137,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.zxzj.org",
+			"ext": "https://www.zxzj.org"
 		},
 		{
 			"key": "csp_Lgyy",
@@ -147,7 +147,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.lgyy.tv",
+			"ext": "https://www.lgyy.tv"
 		},
 		{
 			"key": "csp_Smdyy",
@@ -156,7 +156,7 @@
 			"api": "csp_Smdyy",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Bd",
@@ -166,7 +166,7 @@
 			"playerType": 1,
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Nmys",
@@ -176,7 +176,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/nmys.json",
+			"ext": "http://饭太硬.ga/x/json/nmys.json"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -187,7 +187,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.ysgc.vip",
+			"ext": "https://www.ysgc.vip"
 		},
 		{
 			"key": "csp_panghu",
@@ -197,7 +197,7 @@
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_555",
@@ -208,7 +208,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://www.555dyy1.com",
+			"ext": "https://www.555dyy1.com"
 		},
 		{
 			"key": "csp_Nkdy",
@@ -218,7 +218,7 @@
 			"m3u8ads": "hd.youyhn.com",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
+			"filterable": 1
 		},
 		{
 			"key": "csp_Hlsp",
@@ -229,7 +229,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/黑料.json",
+			"ext": "http://饭太硬.ga/x/json/黑料.json"
 		 },
                  {
 			"key": "csp_XYQHiker皮皮鸭",
@@ -239,7 +239,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json",
+			"ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json"
 		},
 		  
 		{
@@ -260,7 +260,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/少儿教育.json",
+			"ext": "http://饭太硬.ga/x/json/少儿教育.json"
 		},
 		{
 			"key": "小学课堂",
@@ -270,7 +270,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/小学课堂.json",
+			"ext": "http://饭太硬.ga/x/json/小学课堂.json"
 		},
 		{
 			"key": "初中课堂",
@@ -280,7 +280,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/初中课堂.json",
+			"ext": "http://饭太硬.ga/x/json/初中课堂.json"
 		},
 		{
 			"key": "高中教育",
@@ -290,7 +290,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://饭太硬.ga/x/json/高中课堂.json",
+			"ext": "http://饭太硬.ga/x/json/高中课堂.json"
 		}
 	],
 	"spider": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/long.jar;md5;e5d54e7f113a9eb29a7ff6bbebe7eca9",
