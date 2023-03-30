@@ -736,7 +736,7 @@ HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 HBO X,http://208.115.225.174:14165
 
-斗鱼HD剧场,#genre#
+斗鱼HD电影,#genre#
 斗鱼电影HD1,http://epg.112114.xyz/douyu/20415
 斗鱼电影HD2,http://epg.112114.xyz/douyu/10240553
 斗鱼电影HD3,http://epg.112114.xyz/douyu/122402
