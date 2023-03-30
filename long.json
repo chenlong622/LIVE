@@ -1,11 +1,12 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供个人学习使用，请勿用于违法用途]
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	        "spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
-			"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9",
+	                "spider": "http://45.125.46.61/box/jar/777.png;md5;7B65FF61E7B6887F975D9D83909361D5",
+			"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3",
 			"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;E400F43E0E6BEB1A1997C9C6FEFDC8EE",
 			"spider": "http://我不是.肥猫.love:63/Jar/panda230311a.jar;md5;492F9401FEC7D490F6F2E48F045E1580",
 			"wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
+
 			"lives": [{
 				"group": "redirect",
 				"channels": [{
@@ -34,7 +35,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 
 			{
@@ -47,7 +48,7 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ==",
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 			{
 				"key": "csp_YQKAPP",
@@ -60,7 +61,7 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "https://api-tx.11ty.top",
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 			{
 				"key": "csp_77",
@@ -70,7 +71,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 			{
 				"key": "csp_AppMr",
@@ -81,7 +82,7 @@
 				"searchable": 1,
 				"quickSearch": 1,
 				"filterable": 1,
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 			{
 				"key": "csp_FanYY",
@@ -92,7 +93,7 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "http://ali.饭太硬.ml/alitoken",
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 			},
 			{
 				"key": "csp_BuLei",
@@ -104,7 +105,7 @@
 				"quickSearch": 1,
 				"filterable": 1,
 				"ext": "https://www.bulei.cc",
-				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
                },
                 {
 					"key": "csp_Lib",
@@ -115,7 +116,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://tv.libvio.cc/",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_fantuan",
@@ -127,7 +128,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.fantuanhd.com",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Vofl",
@@ -137,7 +138,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Xinsj",
@@ -149,7 +150,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.6080dy3.com",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Czsapp",
@@ -161,8 +162,20 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
+				{
+			"key": "csp_MeiJu69",
+			"name": "🗽69美剧┃直连",
+			"type": 3,
+			"api": "csp_MeiJu69",
+			"m3u8ads": "hd.youyhn.com",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.69mj.com/",
+			"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
+		        },
 				{
 					"key": "csp_DiDuan",
 					"name": "⏮️低端┃直连",
@@ -171,7 +184,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 0,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Cokemv",
@@ -182,7 +195,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Auete",
@@ -192,7 +205,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Bttoo",
@@ -202,7 +215,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Lib",
@@ -213,7 +226,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://tv.libvio.cc/",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_zxzj",
@@ -224,7 +237,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.zxzj.org",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Lgyy",
@@ -235,7 +248,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.lgyy.tv",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Smdyy",
@@ -245,7 +258,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Bd",
@@ -256,7 +269,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Nmys",
@@ -267,7 +280,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/nmys.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Ysgc",
@@ -279,7 +292,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.ysgc.vip",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_panghu",
@@ -290,7 +303,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_555",
@@ -302,7 +315,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "https://www.555dyy1.com",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Nkdy",
@@ -313,7 +326,7 @@
 					"searchable": 1,
 					"quickSearch": 1,
 					"filterable": 1,
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Hlsp",
@@ -325,7 +338,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/黑料.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_XYQHiker皮皮鸭",
@@ -336,7 +349,7 @@
 					"quickSearch": 1,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/XYQ/皮皮鸭.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "dr_兔小贝",
@@ -347,7 +360,7 @@
 					"searchable": 0,
 					"quickSearch": 0,
 					"filterable": 0,
-				    "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+				    "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "少儿教育",
@@ -358,7 +371,7 @@
 					"quickSearch": 0,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/少儿教育.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "小学课堂",
@@ -369,7 +382,7 @@
 					"quickSearch": 0,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/小学课堂.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "初中课堂",
@@ -380,7 +393,7 @@
 					"quickSearch": 0,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/初中课堂.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "高中教育",
@@ -391,7 +404,7 @@
 					"quickSearch": 0,
 					"filterable": 1,
 					"ext": "http://饭太硬.ga/x/json/高中课堂.json",
-					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;61bca6e5fd49bef5a2834109f23303a9"
+					"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;2427acdd749c3d413e3c9d16d4bebce3"
 				},
 				{
 					"key": "csp_Kunyu77",
