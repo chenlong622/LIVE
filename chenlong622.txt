@@ -1656,6 +1656,8 @@ CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m
 梵净山,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
 地球脉动第一季,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
+
+
 🆔密码,#genre#
 微信号,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239894180409.mp4
 7263618,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239890536417.mp4
@@ -1668,7 +1670,7 @@ CCTV-14,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225494/index.m
 古风MV城东新来的教书先生,https://ks-xpc4.xpccdn.com/35d76988-52d0-452e-a63b-84c809f3baa7.mp4 
 古风MV在谁的指尖,https://ks-xpc18.xpccdn.com/dda28084-aad1-477c-8afe-734a594fd3a4.mp4 
 古风MV樱花雨,https://ks-xpc17.xpccdn.com/110e8450-499b-4ec4-9707-41fedbf97c97.mp4 古风MV七夕,https://ks-xpc17.xpccdn.com/a9666f13-fe13-4bd4-a1da-c478916cd8c2.mp4 
-🆔会员1 _555,#genre#
+🆔会员测试1 _555,#genre#
 彩虹e台,mitv://generationnexxxt.com:19806/26193e4740334b55b5ac2a2055439296
 彩虹电影台,mitv://generationnexxxt.com:19806/c0a37d19259d4e8781d405f5a086daa8
 LOOK TV,mitv://generationnexxxt.com:19806/f8c43fd6cbfd47a296bfed61a33135ae
@@ -1696,7 +1698,7 @@ PLAYBOY,mitv://generationnexxxt.com:19806/8e5d0fed0a4346e2ab51e46a2bf93b8e
 JStar极限台,mitv://generationnexxxt.com:19806/c927fff68262429db938f1facd454bf2
 HAPPY,mitv://generationnexxxt.com:19806/3a8a5adf93674ce2b85012f87ad07709
 K,mitv://generationnexxxt.com:19806/e20dca54b1324dac8e48bfa7b604f1b7
-🆔会员2 _555,#genre#
+🆔会员测试2 _555,#genre#
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
 松视1欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
 松视2欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
