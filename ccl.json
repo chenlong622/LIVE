@@ -34,6 +34,27 @@
 		{
 			"sourceName": "❤️多多聚合仓",
 			"sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/3.txt"
+		},
+	        {
+			"sourceName": "☁️云星在线仓库",
+			"sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"
+		},
+		{
+			"sourceName": "🌈星河科技园🌈仓库",
+			"sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
+		},
+		{
+			"sourceName": "🧸仓库③",
+			"sourceUrl": "http://rihou.cc/日后是个大帅哥"
+		},
+		{
+			"sourceName": "🧸仓库④",
+			"sourceUrl": "http://rihou.cc/日后是个大帅哥1"
+		},
+		{
+			"sourceName": "🧸仓库⑤",
+			"sourceUrl": "http://rihou.cc/日后是个大帅哥2"
 		}
-	]
+
+       ]
 }
