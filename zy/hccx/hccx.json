@@ -1,10 +1,10 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/spider.jar",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
@@ -14,8 +14,8 @@
             "key": "js_豆瓣荐片",
             "name": "🅱️追剧影院|T热播",
             "type": 3,
-            "api": "./doubanjianpian1.js",
-            "ext": "./js/doubanjianpian2.js"
+            "api": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/doubanjianpian1.js",
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/js/doubanjianpian2.js"
         },
         {
             "key": "csp_量子",
@@ -25,7 +25,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/量子资源网.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/量子资源网.json"
         },
         {
             "key": "csp_非凡",
@@ -35,7 +35,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/非凡资源网.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/非凡资源网.json"
         },
         {
             "key": "csp_端木",
@@ -45,7 +45,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/端木蓝光.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/端木蓝光.json"
         },
         {
             "key": "csp_兔瓜",
@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔兔瓜.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/兔兔瓜.json"
         },
         {
             "key": "csp_魔力",
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/魔力影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/魔力影视.json"
         },
         {
             "key": "csp_明帝",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/明帝影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/zy/hccx/json/明帝影视.json"
         },
         {
             "key": "csp_落攻阁",
