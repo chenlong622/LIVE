@@ -1,10 +1,10 @@
 {
-    "spider": "./spider.jar",
+    "spider": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/spider.jar",
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/live.txt",
             "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
         }
     ],
@@ -14,8 +14,8 @@
             "key": "js_豆瓣荐片",
             "name": "🅱️追剧影院|T热播",
             "type": 3,
-            "api": "./doubanjianpian1.js",
-            "ext": "./js/doubanjianpian2.js"
+            "api": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/doubanjianpian1.js",
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/js/doubanjianpian2.js"
         },
         {
             "key": "csp_量子",
@@ -25,7 +25,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/量子资源网.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/量子资源网.json"
         },
         {
             "key": "csp_非凡",
@@ -35,7 +35,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/非凡资源网.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/非凡资源网.json"
         },
         {
             "key": "csp_端木",
@@ -45,7 +45,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/端木蓝光.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/端木蓝光.json"
         },
         {
             "key": "csp_兔瓜",
@@ -55,7 +55,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兔兔瓜.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/兔兔瓜.json"
         },
         {
             "key": "csp_魔力",
@@ -65,7 +65,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/魔力影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/魔力影视.json"
         },
         {
             "key": "csp_明帝",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/明帝影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/明帝影视.json"
         },
         {
             "key": "csp_落攻阁",
@@ -85,7 +85,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/落攻阁影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/落攻阁影视.json"
         },
         {
             "key": "csp_xBPQ_奇优",
@@ -95,7 +95,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/奇优影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/奇优影视.json"
         },
         {
             "key": "csp_xBPQ_子子",
@@ -105,7 +105,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/子子影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/子子影视.json"
         },
         {
             "key": "csp_小站",
@@ -115,7 +115,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/无名小站.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/无名小站.json"
         },
         {
             "key": "csp_莫扎兔",
@@ -125,7 +125,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/莫扎兔.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/莫扎兔.json"
         },
         {
             "key": "csp_农民",
@@ -135,7 +135,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/农民影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/农民影视.json"
         },
         {
             "key": "csp_voflix",
@@ -145,7 +145,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/voflix.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/voflix.json"
         },
         {
             "key": "csp_西瓜",
@@ -155,7 +155,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/西瓜影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/西瓜影视.json"
         },
         {
             "key": "csp_我爱",
@@ -165,7 +165,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/52看剧.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/52看剧.json"
         },
         {
             "key": "csp_xBPQ_视觉",
@@ -175,7 +175,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/新视觉影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/新视觉影视.json"
         },
         {
             "key": "csp_91",
@@ -185,7 +185,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/91影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/91影视.json"
         },
         {
             "key": "csp_Free",
@@ -195,7 +195,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/Free影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/Free影视.json"
         },
         {
             "key": "csp_xBPQ_神马",
@@ -205,7 +205,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/神马影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/神马影视.json"
         },
         {
             "key": "csp_看看",
@@ -215,7 +215,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/看看剧.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/看看剧.json"
         },
         {
             "key": "csp_土豪",
@@ -225,7 +225,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/土豪影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/土豪影视.json"
         },
         {
             "key": "csp_八蛋",
@@ -235,7 +235,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/八蛋影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/八蛋影视.json"
         },
         {
             "key": "csp_蛋蛋",
@@ -245,7 +245,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/蛋蛋影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/蛋蛋影视.json"
         },
         {
             "key": "csp_xBPQ_野荷塘",
@@ -255,7 +255,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/野荷塘影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/野荷塘影视.json"
         },
         {
             "key": "csp_xBPQ_思古",
@@ -265,7 +265,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/思古影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/思古影视.json"
         },
         {
             "key": "csp_花猫",
@@ -275,7 +275,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/花猫影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/花猫影视.json"
         },
         {
             "key": "csp_xBPQ_66",
@@ -285,7 +285,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/66影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/66影视.json"
         },
         {
             "key": "csp_xBPQ_油壶",
@@ -295,7 +295,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/油壶影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/油壶影视.json"
         },
         {
             "key": "csp_xBPQ_口袋",
@@ -305,7 +305,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/口袋影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/口袋影视.json"
         },
         {
             "key": "csp_大米",
@@ -315,7 +315,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/大米星球.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/大米星球.json"
         },
         {
             "key": "csp_爱看",
@@ -325,7 +325,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/爱看影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/爱看影视.json"
         },
         {
             "key": "csp_光棍",
@@ -335,7 +335,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/光棍影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/光棍影视.json"
         },
         {
             "key": "csp_王者",
@@ -345,7 +345,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/王者影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/王者影视.json"
         },
         {
             "key": "csp_段友",
@@ -355,7 +355,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/段友影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/段友影视.json"
         },
         {
             "key": "csp_兰花",
@@ -365,7 +365,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/兰花影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/兰花影视.json"
         },
         {
             "key": "csp_剧白",
@@ -375,7 +375,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/剧白白.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/剧白白.json"
         },
         {
             "key": "csp_米爱",
@@ -385,7 +385,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/米爱影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/米爱影视.json"
         },
         {
             "key": "csp_蜥蜴",
@@ -395,7 +395,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/蜥蜴影视.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/蜥蜴影视.json"
         },
         {
             "key": "csp_77",
@@ -414,7 +414,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/py_ysdq.py"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/py/py_ysdq.py"
         },
         {
             "key": "py_cctv",
@@ -424,7 +424,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./py/py_yszx.py"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/py/py_yszx.py"
         },
         {
             "key": "YiSo",
@@ -474,7 +474,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/动漫巴士.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/动漫巴士.json"
         },
         {
             "key": "mtv_xp_维奇动漫",
@@ -484,7 +484,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "./json/维奇动漫.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/维奇动漫.json"
         },
         {
             "key": "演唱会自定义",
@@ -494,7 +494,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/看演唱会.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/看演唱会.json"
         },
         {
             "key": "相声小品",
@@ -504,7 +504,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/相声小品.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/相声小品.json"
         },
         {
             "key": "美食",
@@ -514,7 +514,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/天下美食.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/天下美食.json"
         },
         {
             "key": "mtv_xp_儿童乐园",
@@ -524,7 +524,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/儿童乐园.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/儿童乐园.json"
         },
         {
             "key": "mtv_xp_学习课堂",
@@ -534,7 +534,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/学习课堂.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/学习课堂.json"
         },
         {
             "key": "mtv_xp_戏曲杂苑",
@@ -544,7 +544,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
-            "ext": "./json/戏曲杂苑.json"
+            "ext": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/自用/荷城茶秀/json/戏曲杂苑.json"
         }
     ],
     "parses": [
