@@ -155,7 +155,7 @@ HBO X,http://208.115.225.174:14165
 經典喜劇電影,http://jiandjh.51vip.biz:35455/huya/11352894
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 
-虎牙,#genre#
+虎牙电影轮播,#genre#
 电影_星爷,http://mmitv.top/pltv/huya.php?id=11342412
 电影_英叔,http://mmitv.top/pltv/huya.php?id=11342421
 电影_发哥,http://mmitv.top/pltv/huya.php?id=11342387
