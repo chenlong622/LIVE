@@ -1,7 +1,7 @@
 //以下全部内容扒自网络和大佬资源，所有内容仅供个人学习使用，请勿用于违法用途,
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	"spider": "https://jihulab.com/chenlong622/2/-/raw/main/807.jar;md5;43d5af5fc45bbff83ae54e4f3fe703e5",
+	"spider": "https://jihulab.com/chenlong622/2/-/raw/main/817.jar;md5;b3a5a49c793dd82c3fd04e75d3071b20",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "live",
@@ -58,7 +58,7 @@
       "searchable": 0,
       "filterable": 0,
       "ext": "b4242bebe6f144d3aa6a2cd842ac65aa",
-      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"
+      "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 	},
 		{"key":"荐片","name":"荐片┃秒播","type":3,"api":"https://weixine.net/js/lib/drpy2.min.js","ext":"https://weixine.net/js/jianpian.js"},
 		{
@@ -70,7 +70,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://rihou.vip:88/hccx/量子资源网.json",
-			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"
+			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 		},
 		{
 			"key": "csp_非凡",
@@ -81,7 +81,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://rihou.vip:88/hccx/非凡资源网.json",
-			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"
+			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 		},
 		 {
       "key": "小鸭",
@@ -249,7 +249,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://rihou.vip:88/hccx/MP4磁力.json",
-	  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"
+	  "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
     },
 		{
 			"key": "4K",
@@ -260,7 +260,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://rihou.vip:88/hccx/4khdr磁力.json",
-			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"
+			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 		},
 		 {"key":"圣城影视","name":"圣城家园┃4K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/sc1080.json"},
 		 {"key":"Gitcafe","name":"💽网盘|小纸条4K","type": 3,"api": "csp_Paper","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "b4242bebe6f144d3aa6a2cd842ac65aa","jar": "http://rihou.vip:88/hccx/HeChengChaXiu88.jar"},
@@ -700,190 +700,22 @@
 				}
 			}
 		},
-		
 		{
-      "name": "牛X解析",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
+		"name": "牛牛解析",
+		"type": 1,
+		"url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		} 
     },
-    {
-      "name": "牛X解析2",
-      "type": 1,
-      "url": "http://json.key521.cn/api/?key=20b160e4a34e25284d5a893446e37f21&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "奇艺",
-          "腾讯"
-        ],
-        "header": {
-          "User-Agent": "Dart/3.0(dart:io)"
-        }
-      }
-    },
-    {
-      "name": "牛X解析3",
-      "type": 1,
-      "url": "http://json.84jia.com/home/api?type=ys&uid=309258&key=jmoruvzDFNRSTV0156&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "牛X解析4",
-      "type": 1,
-      "url": "http://jx.huohua.vip/home/api?type=ys&uid=285687&key=adfptvyzAHIKRTU124&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "牛X解析5",
-      "type": 1,
-      "url": "https://json.key521.cn/api/?key=df27d9ca9ec97e22c47f8565a50aa6f5&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905",
-          "优播线路",
-          "腾播线路"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
-    },
-    {
-      "name": "牛X解析6",
-      "type": 1,
-      "url": "https://www.m3u8.tv.cache.janan.net:4433/json2020.php?uid=M3U8.TV&token=88888888&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name": "牛X解析7",
-      "type": 1,
-      "url": "https://api.huomiao.cc/api/?key=gPjVjH8BOGXaubw3WR&url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
-    },{
+   {
+		"name": "牛X解析2",
+		"type": 1,
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	},{
 			"name": "全部",
 			"type": 0,
 			"url": "https://yun.ckmov.com/?url=",
