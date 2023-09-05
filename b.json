@@ -25,8 +25,7 @@
       "filterable": 0
     },
     {
-      "key": "*大地",
-      "name": "*大地",
+      "key": "*
       "type": 0,
       "api": "https://dadiapi.com/api.php/"
     },
@@ -1411,7 +1410,7 @@
       ]
     }
   ],
-  "spider": "https://www.cloudewl.cn/down.php/fab2cbab0dcc22ca00ea5f654645a214.jar",
+  "spider": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/b.jar",
   "ads": [
     "cms.qdwght.com"
   ]
