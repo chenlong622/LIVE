@@ -106,16 +106,8 @@ CCTV4欧洲,http://[2409:8087:5011:1020::1f]/180000001002/0000000100000000007100
 CCTV4美洲,http://[2409:8087:5011:1020::1f]/180000001002/00000001000000000071000000305581/main.m3u8?IASHttpSessionId=OTT
 
 电影频道,#genre#
-
-峨眉电影,http://222.209.244.139:8188/udp/239.93.0.252:5140
-峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-
 1905电影,http://angtv.cn/test/1905.php
 1905电影,http://zgntv.icu/live/1905.php?id=1905dy
-
-黑莓电影,http://39.134.66.110/PLTV/88888888/224/3221225681/index.m3u8
-黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?blog.ntnas.top
 CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
@@ -134,40 +126,27 @@ m1905电影频道,http://zgntv.icu/live/1905.php?id=1905dy
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw183610459_1541235397/ott.mobaibox.com/PLTV/88888890/224/3221225567/index.m3u8?icpid=88888890&RTS=1687952395&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-好莱坞影院①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-好莱坞影院①,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8?blog.ntnas.top
+黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
+
 科幻动作灾难,http://epg.112114.xyz/douyu/252802
 科幻影视解说,http://epg.112114.xyz/douyu/3508304
 60帧极致蓝光,http://epg.112114.xyz/douyu/747764
 经典神剧,http://epg.112114.xyz/douyu/3700024
 华语经典,http://epg.112114.xyz/douyu/434971
+峨眉电影,http://222.209.244.139:8188/udp/239.93.0.252:5140
+峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
-超级电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225623/index.m3u8
-超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
-古装剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225678/index.m3u8
-家庭影院,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225713/index.m3u8 
-明星大片,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225716/index.m3u8
+
 华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-熊熊影院,http://39.135.138.58:18890/TVOD/88888888/224/3221225716/index.m3u8
+
 HBO,http://208.115.225.174:14136
 HBO2,http://208.115.225.174:14140
 HBO Mundi,http://208.115.225.174:14148
 HBO signature,http://208.115.225.174:14160
 HBO X,http://208.115.225.174:14165
-动作电影,http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw2169742343_-422728889/ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-惊悚悬疑,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw2482771376_951312812/ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-精彩電影,http://182.136.139.230:4022/udp/239.93.42.47:5140
-華語電影,http://jiandjh.51vip.biz:35455/huya/11352880
-歐美電影,http://jiandjh.51vip.biz:35455/huya/21059581
-科幻電影,http://jiandjh.51vip.biz:35455/huya/11602034
-港台電影,http://jiandjh.51vip.biz:35455/huya/880261
-歐美影院,http://jiandjh.51vip.biz:35455/huya/21059574
-好萊塢影院,http://jiandjh.51vip.biz:35455/huya/21059587
-經典影院,http://jiandjh.51vip.biz:35455/huya/11342427
-戰爭電影,http://jiandjh.51vip.biz:35455/huya/21059556
-中國功夫電影,http://jiandjh.51vip.biz:35455/huya/11352941
-經典喜劇電影,http://jiandjh.51vip.biz:35455/huya/11352894
+
+
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 
 🎬斗鱼HD电影,#genre#
