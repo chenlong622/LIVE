@@ -25,7 +25,8 @@
       "filterable": 0
     },
     {
-      "key": "*
+      "key": "*大地",
+      "name": "*大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php/"
     },
