@@ -1,7 +1,7 @@
 //以下全部内容扒自网络和大佬资源，所有内容仅供个人学习使用，请勿用于违法用途,
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	"spider": "https://jihulab.com/chenlong622/2/-/raw/main/0909.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+	"spider": "https://jihulab.com/chenlong622/2/-/raw/main/0922.jar;md5;533f279c487b5bd34cf4947a7afbee34",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "live",
@@ -18,6 +18,19 @@
 			"type": 3,
 			"api": "https://weixine.net/js/lib/drpy2.min.js",
 			"ext": "https://weixine.net/js/jianpian.js"
+		},
+		{
+			"key": "Aid",
+			"name": "🚑急救┃教学",
+			"type": 3,
+			"api": "csp_FirstAid",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"style": {
+				"type": "rect",
+				"ratio": 3.8
+			}
 		},
 		{
 			"key": "csp_量子",
@@ -62,14 +75,13 @@
 			"ext": "https://jihulab.com/chenlong622/1/-/raw/main/alist.json"
 		},
 		{
-			"key": "csp_蘑菇影视",
-			"name": "🍄蘑菇┃APP",
+			"key": "毛驴",
+			"name": "Ⓜ毛驴┃App",
 			"type": 3,
-			"api": "csp_AppYsV2",
+			"api": "csp_Maolv",
 			"searchable": 1,
 			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://guan.yy365.vip/api.php/app/"
+			"changeable": 1
 		},
 		{
 			"key": "落落",
@@ -159,7 +171,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "http://guan.yy365.vip/api.php/app/"
+			"ext": "https://www.kuin.one/api.php/app/"
 		},
 		{
 			"key": "奇奇",
@@ -169,7 +181,16 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://ttsp.live/api.php/app/"
+			"ext": "http://mp4.ghlyys.com/api.php/app/"
+		},
+		{
+			"key": "77",
+			"name": "👒七七┃App",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
 		},
 		{
 			"key": "MXTV",
@@ -410,6 +431,53 @@
 			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 		},
 		{
+			"key": "SNzy",
+			"name": "🥎索尼┃2K",
+			"type": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.433
+			},
+			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"changeable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"恐怖片",
+				"剧情片",
+				"战争片",
+				"悬疑片",
+				"犯罪片",
+				"冒险片",
+				"动画片",
+				"惊悚片",
+				"奇幻片",
+				"国产剧",
+				"欧美剧",
+				"韩剧",
+				"日剧",
+				"港剧",
+				"台剧",
+				"泰剧",
+				"大陆综艺",
+				"日韩综艺",
+				"港台综艺",
+				"欧美综艺",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"动画片",
+				"港台动漫",
+				"海外动漫",
+				"伦理片"
+			]
+		},
+		{
 			"key": "csp_Lib",
 			"name": "🌟利播┃直连",
 			"type": 3,
@@ -417,17 +485,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://tv.libvio.cc/"
-		},
-		{
-			"key": "fantuan",
-			"name": "🍙饭团┃直连",
-			"type": 3,
-			"api": "csp_Fantuan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1,
-			"ext": "https://www.fantuan3.com"
+			"ext": "https://www.libvio.pro/"
 		},
 		{
 			"key": "Vofl",
@@ -439,6 +497,16 @@
 			"changeable": 1
 		},
 		{
+			"key": "蚂蚁",
+			"name": "🐜蚂蚁┃直连",
+			"type": 3,
+			"api": "csp_Mayiys",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://rzys.xyz"
+		},
+		{
 			"key": "Xinsj",
 			"name": "👓新视觉┃直连",
 			"type": 3,
@@ -447,6 +515,34 @@
 			"quickSearch": 1,
 			"changeable": 1,
 			"ext": "https://www.6080yy3.com/"
+		},
+		{
+			"key": "率率",
+			"name": "💡率率┃直连",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1,
+			"categories": [
+				"国产剧",
+				"韩剧",
+				"日剧",
+				"港剧",
+				"台剧",
+				"动作片",
+				"喜剧片",
+				"爱情片",
+				"科幻片",
+				"战争片",
+				"恐怖片",
+				"剧情片",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"大陆综艺",
+				"日韩综艺"
+			]
 		},
 		{
 			"key": "Czsapp",
@@ -504,7 +600,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "https://www.libvio.fun/"
+			"ext": "https://www.libvio.pro/"
 		},
 		{
 			"key": "zxzj",
@@ -524,7 +620,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 1,
-			"ext": "http://饭太硬.top/x/json/nmys.json"
+			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json"
 		},
 		{
 			"key": "csp_Ysgc",
@@ -601,25 +697,6 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/高中课堂.json"
-		},
-		{
-			"key": "野兔资源",
-			"name": "🐰野兔┃资源",
-			"type": 1,
-			"playerType": 1,
-			"api": "http://xn--yetu07f.xn--yetu07f.icu:66/api.php/provide/vod/?ac=list",
-			"categories": [
-				"无敌4K资源",
-				"电影",
-				"动漫动画",
-				"国产剧",
-				"日韩剧",
-				"泰剧",
-				"欧美剧",
-				"纪录片"
-			],
-			"searchable": 1,
-			"quickSearch": 1
 		},
 		{
 			"key": "zy_新浪资源",
@@ -1244,9 +1321,17 @@
 			"url": "Web"
 		},
 		{
-			"name": "tx-4k",
+			"name": "tx-4K",
 			"type": 1,
-			"url": "http://119.91.31.224:81/txqq.php?url="
+			"url": "http://119.91.31.224:82/txqq.php?url=",
+			"ext": {
+				"flag": [
+					"qq"
+				],
+				"header": {
+					"User-Agent": "okhttp/3.12.11"
+				}
+			}
 		},
 		{
 			"name": "观音解析",
@@ -1301,14 +1386,37 @@
 			}
 		},
 		{
-			"name": "神秘",
-			"type": 1,
-			"url": "http://json.g9.pub:66/?url="
-		},
-		{
-			"name": "哥哥们",
+			"name": "神秘的哥哥们",
 			"type": 1,
 			"url": "http://jx.wogg.link:63/jiexi/饭特析.php?url="
+		},
+		{
+			"name": "解析",
+			"type": 1,
+			"url": "https://jx.zhanlangbu.com/?url=",
+			"ext": {
+				"flag": [
+					"qq",
+					"腾讯",
+					"qiyi",
+					"爱奇艺",
+					"奇艺",
+					"youku",
+					"优酷",
+					"sohu",
+					"搜狐",
+					"letv",
+					"乐视",
+					"mgtv",
+					"芒果",
+					"imgo",
+					"rx",
+					"ltnb",
+					"bilibili",
+					"1905",
+					"xigua"
+				]
+			}
 		},
 		{
 			"name": "全部",
