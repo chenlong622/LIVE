@@ -33,6 +33,23 @@
 			}
 		},
 		{
+"ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
+"filterable": 1,
+"quickSearch": 1,
+"name": "小雅搜索",
+"viewType": {
+"style": {
+"type": "rect"
+}
+},
+"changeable": 0,
+"jar": "http://27.14.12.234:4567/spring.jar",
+"api": "csp_XiaoYa",
+"type": 3,
+"key": "csp_XiaoYa",
+"searchable": 1
+},
+		{
 			"key": "csp_量子",
 			"name": "💞量子┃XBPQ",
 			"type": 3,
@@ -332,17 +349,6 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"ext": "http://rihou.vip:88/hccx/音范磁力.json",
-			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
-		},
-		{
-			"key": "蚂蚁",
-			"name": "🧲磁力┃蚂蚁4K",
-			"type": 3,
-			"api": "csp_XPathAli",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://rihou.vip:88/hccx/蚂蚁磁力.json",
 			"jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar"
 		},
 		{
