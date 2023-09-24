@@ -1225,7 +1225,6 @@
 				"三次跳转播放链接": "\"url\"*\"&&\""
 			}
 		},
-		{"key": "av","name":"av|影视","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://missav.com/cn/{cateId}?page={catePg}","分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"}},
 		{
 			"key": "Biliych",
 			"name": "🅱哔哔┃演唱会",
