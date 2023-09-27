@@ -82,41 +82,6 @@
 			"ext": "http://rihou.vip:88/hccx/乐猪影视.json"
 		},
 		{
-      "key": "速搜",
-      "name": " ‍❤️速搜|直连",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "playerType": "1", 
-      "ext": {
-        "数组": "class=\"top&&</li",
-        "嗅探词": ".m3u8#.mp4#download-cdn.123pan.cn",
-        "图片": "data-original=\" &&\"",
-        "链接": "/v_+/project-&&.html+_1_1.html",
-        "线路数组": "class='swiper-slide&&</a >[不包含:lzm3u8#ffm3u8]",
-        "线路标题": "data-from=\"&&\"",
-        "影片类型": "备注：&&</li>",
-        "影片年代": "年份：</b>&&</li>",
-        "影片地区": "地区：&&</li>",
-        "导演": "<h2>&&</h2>",
-        "主演": "演员：&&</li>",
-        "简介": "简介：&&</li>",
-        "播放数组": "<ul class='content-playlist&&</ul",
-        "播放列表": "<a&&/a>",
-        "跳转播放链接": "https://jx.2kj.org/jx.php?url=+link_pre*url\":\"&&\"",
-        "二次跳转播放链接": "Base64(\"url\"*\"&&\"[替换:\\*>>9#->>1#\\&>>5])",
-        "搜索url": "https://www.cupfox.app/s/{wd}",
-        "搜索模式": "1",
-        "搜索二次截取": "type=\"application/json\">&&</script>",
-        "搜索数组": "{\"te&&}[包含:速搜TV]",
-        "搜索图片": "./xm/Free.jpg",
-        "搜索标题": "xt\":\"&&\"",
-        "搜索副标题": "\"website\":\"&&\"",
-        "搜索链接": "https://www.sstv.fun/v_+\"url\":\"https://www.sstv.fun/project-&&.html\"+_1_1.html",
-        "分类url": "https://www.sstv.fun/vodshow-{cateId}/area/{area}/by/{by}/page/{catePg}/year/{year}.html;;a",
-        "分类": "电影$1#剧集$2#综艺$3#动漫$4#纪录$21"
-      }
-    },
-		{
 			"key": "csp_Alist1",
 			"name": "🅿Alist┃网盘",
 			"type": 3,
@@ -126,6 +91,7 @@
 			"filterable": 0,
 			"ext": "https://jihulab.com/chenlong622/1/-/raw/main/alist.json"
 		},
+		{"key": "嘉靓","name": "嘉靓","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 		{
 			"key": "毛驴",
 			"name": "Ⓜ毛驴┃App",
@@ -847,6 +813,19 @@
 			"filterable": 0,
 			"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js"
 		},
+		{
+            "key": "av",
+            "name": "av|影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": {
+                "分类url": "https://missav.com/cn/{cateId}?page={catePg}",
+                "分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"
+            },
+            "filterable": 1
+        },
 		{
 			"key": "csp_jj",
 			"name": "📽九播┃XBPQ",
