@@ -6,16 +6,10 @@
 	"lives": [{
 		"name": "live",
 		"type": 0,
-		"url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vY2hlbmxvbmc2MjIudHh0",
+		"url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vL83mxby9473jLnR4dA==",
 		"playerType": 1,
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
-	},
-	{
-		"name": "live2",
-		"type": 0,
-		"url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vL83mxby9473jLnR4dA=="
-
 	}
 	],
 	"warningText": "使用前请长按主页刷新后台数据，玩偶哥哥等阿里网盘资源请手机下载阿里云盘扫码观看！",
