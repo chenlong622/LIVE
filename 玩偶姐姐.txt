@@ -77,6 +77,8 @@
 花絮-公共场合,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
 花絮-幕后花絮•1,https://v4.cvhlscdn.com/20210918/pg4sWQLe/index.m3u8
 花絮-幕后花絮•2,https://v4.cvhlscdn.com/20221105/0NXbWItw/hls/index.m3u8
+
+经典,#genre#
 3D肉蒲团,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/qh/yf/wo/e9/cc0187d5f4064e60a8d9507ccdbeaf4a.m3u8?
 一路向西,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fd/ea/eu/2q/7bd22841f6dd4b768ab5d1e38419bf4b.m3u8?
 鸭王,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fo/4n/1u/xg/304cc44af0334b39b0989c4e224ec966.m3u8?
