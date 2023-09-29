@@ -240,7 +240,9 @@ HBO X,http://208.115.225.174:14165
 TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
-TVB jade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
+TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
+TVBjade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
+TVBj2,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
 明珠台,http://r.jdshipin.com/ZQ4kN
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -272,6 +274,34 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 中国环球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 环球纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
+
+🌞油管直播(选EXO解码),#genre#
+中天新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻.m3u8
+中天新闻2,https://raw.githubusercontent.com/lem85930/YTM/main/中天新闻2.m3u8
+三立+新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
+三立iNews新闻,https://raw.githubusercontent.com/lem85930/YTM/main/三立iNews新闻.m3u8
+台视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/台视新闻.m3u8
+民视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/民视新闻.m3u8
+中视新闻,https://raw.githubusercontent.com/lem85930/YTM/main/中视新闻.m3u8
+TVBS News,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS.m3u8
+TVBS国际+,https://raw.githubusercontent.com/lem85930/utlive/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://raw.githubusercontent.com/lem85930/YTM/main/寰宇新闻.m3u8
+东森财经新闻,https://raw.githubusercontent.com/lem85930/YTM/main/东森财经新闻.m3u8
+凤凰资讯台,https://raw.githubusercontent.com/lem85930/YTM/main/凤凰资讯台.m3u8
+CCTV中文国际,https://raw.githubusercontent.com/lem85930/YTM/main/CCTV中文国际.m3u8
+中天新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻.m3u8
+中天新闻2,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中天新闻2.m3u8
+三立+新闻,https://ghproxy.com/https://raw.githubusercontent.com/lem85930/YTM/main/三立新闻.m3u8
+三立iNews新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/三立iNews新闻.m3u8
+台视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/台视新闻.m3u8
+民视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/民视新闻.m3u8
+中视新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/中视新闻.m3u8
+TVBS News,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS.m3u8
+TVBS国际+,https://ghproxy.com/https://github.com/lem85930/utlive/raw/YTlive/TVBS新闻2.m3u8
+寰宇新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/寰宇新闻.m3u8
+东森财经新闻,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/东森财经新闻.m3u8
+凤凰资讯台,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/凤凰资讯台.m3u8
+CCTV中文国际,https://ghproxy.com/https://github.com/lem85930/YTM/raw/main/CCTV中文国际.m3u8
 
 4K高清,#genre#
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
