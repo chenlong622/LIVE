@@ -240,6 +240,7 @@ HBO X,http://208.115.225.174:14165
 TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
+TVB jade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
 明珠台,http://r.jdshipin.com/ZQ4kN
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
