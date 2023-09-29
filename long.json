@@ -6,7 +6,7 @@
 	"lives": [{
 		"name": "live",
 		"type": 0,
-		"url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL2dpdGh1Yi5jb20vY2hlbmxvbmc2MjIvTElWRS9ibG9iL21haW4vzebFvL3jveMudHh0",
+		"url": "aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmxvbmc2MjIvTElWRS9tYWluLyVFNyU4RSVBOSVFNSU4MSVCNiVFNSVBNyU5MCVFNSVBNyU5MC50eHQ=",
 		"playerType": 1,
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
