@@ -37,11 +37,7 @@
 			"filterable": 1,
 			"quickSearch": 1,
 			"name": "🎀小雅┃搜索",
-			"viewType": {
-				"style": {
-					"type": "rect"
-				}
-			},
+			"viewType": {"style": {"type": "rect"}},
 			"changeable": 0,
 			"jar": "http://27.14.12.234:4567/spring.jar",
 			"api": "csp_XiaoYa",
