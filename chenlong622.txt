@@ -241,9 +241,13 @@ TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
+TVB翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
 TVBjade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
 TVBj2,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
-明珠台,http://r.jdshipin.com/ZQ4kN
+TVB明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
+TVB明珠台,http://r.jdshipin.com/ZQ4kN
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=230927
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -356,6 +360,7 @@ CCTV16-4K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
 斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
 斗鱼4K电影,http://epg.112114.xyz/douyu/9249162
+广东综艺4K,http://14.19.143.22:9098/hls/10/index.m3u8
 广东综艺4K,http://113.100.72.131:8899/udp/239.77.1.236:5146
 广东综艺4K,http://113.100.72.131:8899/udp/239.77.1.237:5146
 广东综艺4K,http://113.100.72.131:8899/udp/239.77.0.244:5146
