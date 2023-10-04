@@ -7,7 +7,7 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 跑跑卡丁车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 
-央视高清,#genre#
+央视高清ᴴᴰ,#genre#
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?blog.ntnas.top
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8?blog.ntnas.top
@@ -104,7 +104,7 @@ CCTV-17,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw483903016_-67353
 北京IPTV淘电影,http://111.196.130.165:4022/udp/239.3.1.250:8001
 北京IPTV淘娱乐,http://111.196.130.165:4022/udp/239.3.1.100:8001
 
-电影频道,#genre#
+电影频道ᴴᴰ,#genre#
 1905电影,http://angtv.cn/test/1905.php
 1905电影,http://zgntv.icu/live/1905.php?id=1905dy
 1905电影,http://nas.jdshipin.com:8801/1905.php?id=1905dy
@@ -225,31 +225,31 @@ HBO X,http://208.115.225.174:14165
 斗鱼搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
 港台直播,#genre#
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰中文ᴴᴰ,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰中文ᴴᴰ,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226248/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+凤凰资讯ᴴᴰ,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰资讯ᴴᴰ,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
-凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港台,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰香港台ᴴᴰ,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港台ᴴᴰ,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰中文,http://222.209.244.139:8188/udp/239.93.1.9:2192
 凤凰资讯,http://222.209.244.139:8188/udp/239.93.1.4:2191
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://r.jdshipin.com/62WM7
+TVB翡翠台ᴴᴰ,http://r.jdshipin.com/qClQf
+TVB翡翠台ᴴᴰ,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
 TVB翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
-TVBjade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
-TVBj2,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
-TVB明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
+TVB Jadeᴴᴰ，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
+TVB J2ᴴᴰ,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
+TVB明珠台ᴴᴰ,https://pi.0472.org/tv/mzt.php?auth=230927
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=230927
-澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳视澳门ᴴᴰ,https://pi.0472.org/tv/asam.php?auth=230927
+澳门莲花ᴴᴰ,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳门莲花ᴴᴰ,http://anren.live/HK/BiIOU11uLA.m3u8
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 民视,https://fsv4.yj011.net/sat/tv051.flv
@@ -347,7 +347,7 @@ VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 咪咕4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 
-卫视高清,#genre#
+卫视高清ᴴᴰ,#genre#
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -705,25 +705,25 @@ IHOT爱院线,http://zteres.sn.chinamobile.com:6060/000000001000/600000000600003
 大片片说小片,http://mmitv.top/test/douyu.php?id=7489563
 火龙果说电影,http://mmitv.top/test/douyu.php?id=9559158
 
-广东,#genre#
-静态_广州综合,https://justsometime.gztv.com/sec/zhonghe.m3u8
-静态_广州法治,https://justsometime.gztv.com/sec/fazhi.m3u8
-静态_广州新闻,https://justsometime.gztv.com/sec/xinwen.m3u8
-静态_广州竞赛,https://justsometime.gztv.com/sec/jingsai.m3u8
-静态_广州影视,https://justsometime.gztv.com/sec/yingshi.m3u8
-静态_南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
-静态_深圳龙岗,https://lglivepull.sznews.com/live/2647.m3u8
-静态_深圳东部,https://lglivepull.sznews.com/live/2646.m3u8
-静态_梅州综合,http://p2.weizan.cn/slowlive/403126774572750089/live.m3u8
-静态_梅州生活,http://p2.weizan.cn/slowlive/645350022315428297/live.m3u8
-静态_GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
-酒店_深圳公共,http://gmxw.7766.org:808/hls/156/index.m3u8
-酒店_深圳都市,http://gmxw.7766.org:808/hls/140/index.m3u8
-酒店_深圳财经,http://gmxw.7766.org:808/hls/151/index.m3u8
-酒店_深圳娱乐,http://gmxw.7766.org:808/hls/155/index.m3u8
-酒店_深圳电视剧,http://gmxw.7766.org:808/hls/141/index.m3u8
-酒店_深圳少儿,http://gmxw.7766.org:808/hls/157/index.m3u8
-酒店_深圳体育,http://gmxw.7766.org:808/hls/158/index.m3u8
+广东ᴴᴰ,#genre#
+广州综合ᴴᴰ,https://justsometime.gztv.com/sec/zhonghe.m3u8
+广州法治ᴴᴰ,https://justsometime.gztv.com/sec/fazhi.m3u8
+广州新闻ᴴᴰ,https://justsometime.gztv.com/sec/xinwen.m3u8
+广州竞赛ᴴᴰ,https://justsometime.gztv.com/sec/jingsai.m3u8
+广州影视ᴴᴰ,https://justsometime.gztv.com/sec/yingshi.m3u8
+南国都市ᴴᴰ,https://justsometime.gztv.com/sec/shenghuos.m3u8
+深圳龙岗ᴴᴰ,https://lglivepull.sznews.com/live/2647.m3u8
+深圳东部ᴴᴰ,https://lglivepull.sznews.com/live/2646.m3u8
+梅州综合ᴴᴰ,http://p2.weizan.cn/slowlive/403126774572750089/live.m3u8
+梅州生活ᴴᴰ,http://p2.weizan.cn/slowlive/645350022315428297/live.m3u8
+GRTN文化ᴴᴰ,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+深圳公共ᴴᴰ,http://gmxw.7766.org:808/hls/156/index.m3u8
+深圳都市ᴴᴰ,http://gmxw.7766.org:808/hls/140/index.m3u8
+深圳财经ᴴᴰ,http://gmxw.7766.org:808/hls/151/index.m3u8
+深圳娱乐ᴴᴰ,http://gmxw.7766.org:808/hls/155/index.m3u8
+深圳电视剧ᴴᴰ,http://gmxw.7766.org:808/hls/141/index.m3u8
+深圳少儿ᴴᴰ,http://gmxw.7766.org:808/hls/157/index.m3u8
+深圳体育ᴴᴰ,http://gmxw.7766.org:808/hls/158/index.m3u8
 大湾区卫视ᴴᴰ,http://113.100.72.131:8899/udp/239.77.0.215:5146
 广东卫视ᴴᴰ,http://113.100.72.131:8899/udp/239.77.1.19:5146
 广东卫视ᴴᴰ,http://113.100.72.131:8899/udp/239.77.1.152:5146
