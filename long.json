@@ -416,7 +416,7 @@
 	},
 	{
 		"key": "圣城影视",
-		"name": "圣城家园┃4K",
+		"name": "🤮圣城家园┃4K",
 		"type": 3,
 		"api": "csp_XBPQ",
 		"searchable": 1,
@@ -819,19 +819,6 @@
 		"quickSearch": 0,
 		"filterable": 0,
 		"ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js"
-	},
-	{
-		"key": "av",
-		"name": "av|影视",
-		"type": 3,
-		"api": "csp_XBPQ",
-		"searchable": 1,
-		"quickSearch": 1,
-		"ext": {
-			"分类url": "https://missav.com/cn/{cateId}?page={catePg}",
-			"分类": "电影$madou#电视剧$dianshiju#综艺$zongyi"
-		},
-		"filterable": 1
 	},
 	{
 		"key": "csp_jj",
