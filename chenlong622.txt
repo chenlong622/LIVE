@@ -139,7 +139,7 @@ HBO signature,http://208.115.225.174:14160
 HBO X,http://208.115.225.174:14165
 豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 
-🎬斗鱼HD电影,#genre#
+🎬斗鱼电影ᴴᴰ,#genre#
 斗鱼HD电影1,http://epg.112114.xyz/douyu/3637778
 斗鱼HD电影2,http://epg.112114.xyz/douyu/1226741
 斗鱼HD电影3,http://epg.112114.xyz/douyu/36337
@@ -218,8 +218,8 @@ HBO X,http://208.115.225.174:14165
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-TVB翡翠台ᴴᴰ,http://r.jdshipin.com/qClQf
-TVB翡翠台ᴴᴰ,http://r.jdshipin.com/62WM7
+TVB翡翠台,http://r.jdshipin.com/qClQf
+TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
 TVB翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
