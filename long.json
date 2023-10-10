@@ -32,19 +32,7 @@
 				"ratio": 3.8
 			}
 		},
-		{
-			"ext": "eyJhcGlLZXkiOiI5YzY4ZDE0Zi1mNGFkLTQxMWItOWJlNi04NTM1NmMyMjc5YzYiLCJhcGkiOiJodHRwOi8vMjcuMTQuMTIuMjM0OjQ1NjcifQ==",
-			"filterable": 1,
-			"quickSearch": 1,
-			"name": "🎀小雅┃搜索",
-			"viewType": {"style": {"type": "rect"}},
-			"changeable": 0,
-			"jar": "http://27.14.12.234:4567/spring.jar",
-			"api": "csp_XiaoYa",
-			"type": 3,
-			"key": "csp_XiaoYa",
-			"searchable": 1
-		},
+		{"key":"bb_bulei","name":"🐱布蕾[cat]","type":3,"api":"https://qu.ax/FRhB.js"},
 		{
 			"key": "csp_量子",
 			"name": "💞量子┃XBPQ",
