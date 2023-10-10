@@ -233,12 +233,8 @@ HBO X,http://208.115.225.174:14165
 凤凰香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰中文,http://222.209.244.139:8188/udp/239.93.1.9:2192
 凤凰资讯,http://222.209.244.139:8188/udp/239.93.1.4:2191
-TVB翡翠台ᴴᴰ,http://r.jdshipin.com/qClQf
-TVB翡翠台ᴴᴰ,http://r.jdshipin.com/62WM7
-TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
-TVB翡翠台,https://pi.0472.org/tv/fct.php?auth=230927
-TVB Jade，https://epg.pw/stream/6c4ffbf995e721a5b45693ba8d813786c762be75d201e798ebcdc493501e4021.ctv
+TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB J2,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
 TVB明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
@@ -272,20 +268,20 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 
 
 4K高清,#genre#
-CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_-41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?icpid=3&RTS=1674379145&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3027752919_-1874130277/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8?icpid=3&RTS=1674378848&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw3154895646_1897439205/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8?icpid=3&RTS=1674378975&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/wh7f454c46tw2443769612_-1188450915/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8?icpid=3&RTS=1674369674&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec27_80&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw2045655319_-2135022099/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1674373571&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 苏州4k,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
-CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 CCTV-4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV-4K,http://113.207.84.197:8090/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV-4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw3303805862_1451729760/ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8?icpid=3&RTS=1674379124&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw3324980988_-41690276/ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8?icpid=3&RTS=1674379145&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw3797101779_1427264412/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8?icpid=4&RTS=1674379617&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
 CCTV16-4K,https://live.goodiptv.club/aishang/cctv164k
 CCTV16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
@@ -298,13 +294,12 @@ CCTV16-4K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212
 苏州4k,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
 苏州4k,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1 
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8 
-
-影视4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 4K超高清电影,http://r.jdshipin.com/5DWJk
 4K超高清电影,http://r.jdshipin.com/B7sfp
 华数4K影视,http://r.jdshipin.com/Lqdwf
 华数4K影视,http://nas.jdshipin.com:8801/4kys.php
+华数4K影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 百事通4K电影,http://58.32.40.25:8000/udp/239.45.3.107:5140
 百事通4K纪实,http://58.32.40.25:8000/udp/239.45.1.10:5140
 百事通4K儿童,http://58.32.40.25:8000/udp/239.45.1.1:5140
