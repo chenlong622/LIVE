@@ -228,16 +228,21 @@ HBO X,http://208.115.225.174:14165
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226274/index.m3u8
-凤凰香港台,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-凤凰香港台,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
-凤凰香港台,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 凤凰中文,http://222.209.244.139:8188/udp/239.93.1.9:2192
 凤凰资讯,http://222.209.244.139:8188/udp/239.93.1.4:2191
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
 TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc627205f24e20919c6fe2.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7
-TVB J2,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
+香港J2频道,http://r.jdshipin.com/Nr5jq
+香港J2频道,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
 TVB明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=230927
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
