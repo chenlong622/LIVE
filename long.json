@@ -33,6 +33,14 @@
 			}
 		},
 		{
+      "key":"py_douyin",
+      "name":"💋抖音直播",
+      "type":3,
+      "api":"py_douyin",
+      "style":{ "type":"rect", "ratio":1.33 },
+          "ext":"./py_douyin.py"
+  },
+		{
 			"key": "csp_量子",
 			"name": "💞量子┃XBPQ",
 			"type": 3,
