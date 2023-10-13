@@ -240,7 +240,6 @@ TVB翡翠台,https://epg.pw/stream/b43f94b33e3f2222a12195487519c698c65d7c2d50bc6
 TVB翡翠台,http://r.jdshipin.com/62WM7
 香港J2频道,http://r.jdshipin.com/Nr5jq
 香港J2频道,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
-TVB明珠台,https://pi.0472.org/tv/mzt.php?auth=230927
 TVB明珠台,http://r.jdshipin.com/ZQ4kN
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
