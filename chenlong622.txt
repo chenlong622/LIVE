@@ -148,6 +148,7 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
 超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
 科幻动作灾难,http://epg.112114.xyz/douyu/252802
 科幻影视解说,http://epg.112114.xyz/douyu/3508304
 60帧极致蓝光,http://epg.112114.xyz/douyu/747764
@@ -261,22 +262,7 @@ RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/str
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-民视,https://fsv4.yj011.net/sat/tv051.flv
-台视,https://fsv4.yj011.net/sat/tv071.flv
-中视,https://fsv4.yj011.net/sat/tv091.flv
-华视,https://fsv4.yj011.net/sat/tv111.flv
-TVBS新聞台,https://fsv4.yj011.net/sat/tv551.flv
-TVBS欢乐台,https://fsv4.yj011.net/sat/tv421.flv
-东森财经新闻台,https://fsv4.yj011.net/sat/tv571.flv
-纬来育乐,https://fsv4.yj011.net/sat/tv701.flv
-纬来体育,https://fsv4.yj011.net/sat/tv721.flv
-MOMO综合台,https://fsv4.yj011.net/sat/tv761.flv
-纬来日本,https://fsv4.yj011.net/sat/tv771.flv
-台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-东森电影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,http://162.19.247.76:22222/live/dsypt/index.m3u8
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 中国环球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 环球纪录,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
@@ -884,6 +870,8 @@ CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 哈哈炫动,http://tvmvip110.club/bs.php?id=19
 
 空中课堂,#genre#
+百变课堂,https://cntv.sbs/tv?auth=2310201855&id=bbkt
+
 一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
