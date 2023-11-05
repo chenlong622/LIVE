@@ -246,14 +246,13 @@ HBO X,http://208.115.225.174:14165
 凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
-翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
+翡翠台,http://r.jdshipin.com/62WM7
 明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
 澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
 澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 莲花卫视,https://cntv.sbs/tv/lhws.php
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
 香港J2频道,http://r.jdshipin.com/Nr5jq
 香港J2频道,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
 明珠台,http://r.jdshipin.com/ZQ4kN
