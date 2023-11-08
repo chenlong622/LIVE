@@ -19,8 +19,8 @@ CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8?blog.ntnas.top
 CCTV-2,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f//index.m3u8
-CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226009/index.m3u8?blog.ntnas.top
-CCTV-3,http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8?blog.ntnas.top
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4,http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8
@@ -247,11 +247,9 @@ HBO X,http://208.115.225.174:14165
 凤凰香港,http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
 凤凰香港,http://lcx-olt.8866.org:8181/tsfile/live/1071_1.m3u8
 翡翠台,http://r.jdshipin.com/62WM7
-明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.sbs/tv/lhws.php
+
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 香港J2频道,http://r.jdshipin.com/Nr5jq
 香港J2频道,https://epg.pw/stream/6ab4d25b457c55d179cdb8d246d3c16a05693044e007b7f0571b22820a122ccd.ctv
