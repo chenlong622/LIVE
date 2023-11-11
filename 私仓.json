@@ -2,7 +2,11 @@
 	"urls": [
 		{
 			"url": "http://饭太硬.top/x/b.json",
-			"name": "饭太硬"
+			"name": "饭太硬18"
+		},
+		{
+			"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+			"name": "fongmi18"
 		},
 		{
 			"url":"https://qu.ax/AGKe.json",
@@ -10,7 +14,7 @@
 		},
 		{
 			"url":"https://gh-proxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/18.json",
-			"name": "武哥"
+			"name": "武哥18"
 		},
 		{
 			"url": "http://52bsj.vip:81/api/v3/file/get/67277/%E9%A5%AD%E5%A4%AA%E7%A1%AC.txt?sign=eG6j5FH3YGcHvUA6_cm9sMj8pZCTRCRiPcgoXKWoC54%3D%3A0",
