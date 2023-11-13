@@ -1,4 +1,4 @@
-赛事直播,#genre#
+游戏直播,#genre#
 王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.flv?wsAuth=f73077d85e523eb95b6ce1ea3581b46b&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18db3c111c4e3c14350afd2dcaf43d0ef60&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 CF•手游,http://tc-tct.douyucdn2.cn/dyliveflv1/868191rjy69PsEAz_2000.flv?wsAuth=63d571126613feca6067da321aaf2df2&token=cpn-androidmpro-0-868191-846aacab1859214c037e4d0c263121580403540feea39901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
 狼人杀官方赛事,http://tc-tct.douyucdn2.cn/dyliveflv1/4615959rUFUtiJ3v.flv?wsAuth=7971ae0019a9ad2822153b7370372e8c&token=cpn-androidmpro-0-4615959-c88b2c2692ce476579452cdc62babd37285751f91f149297&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
@@ -7,13 +7,18 @@ LOL•云顶之弈,http://tc-tct.douyucdn2.cn/dyliveflv1/522423rw7NgKaYl9_2000p.
 跑跑卡丁车•手游,http://tc-tct.douyucdn2.cn/dyliveflv1a/6672862r90xSwiRP_2000.flv?wsAuth=1c2c516dd80b1193241687841f128073&token=cpn-androidmpro-0-6672862-ee6297daa5d07f3494aad175947a679df4184f7934380258&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A_2000.flv?wsAuth=07d3125e1ec93068330e14be22a09454&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dddb241f8ecad4f36806d04b45752cbbd8&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 虎牙英雄联盟4K总决赛,https://live.metshop.top/huya/s4k
-Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
+虎牙王者荣耀之吕德华,http://159.75.85.63:35455/huya/243547
+虎牙王者荣耀之猪猪小悠,http://159.75.85.63:35455/huya/651353
 虎牙王者荣耀之张大仙,https://live.metshop.top/huya/688
 虎牙王者荣耀4K,http://159.75.85.63:35455/huya/wzgxs1
 虎牙魔兽世界4K,http://159.75.85.63:35455/huya/shangdi
+虎牙魔兽世界之军团老魏,http://159.75.85.63:35455/huya/17790291
+虎牙炉石传说~太极剑,http://159.75.85.63:35455/huya/455315
 虎牙战地五4K,http://159.75.85.63:35455/huya/28260962
+Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 斗鱼4K激战2,http://159.75.85.63:35455/douyu/3916618
-
+斗鱼DOTA2,http://159.75.85.63:35455/douyu/9999
+斗鱼剑网3,http://159.75.85.63:35455/douyu/528353
 央视高清ᴴᴰ,#genre#
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8?blog.ntnas.top
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
