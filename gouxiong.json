@@ -1,55 +1,83 @@
 {
 	"urls": [{
-			"url": "https://ghproxy.com/https://github.com/chenlong622/LIVE/blob/main/long.json",
-			"name": "狗熊线路"
+			"url": "https://jihulab.com/chenlong622/1/-/raw/main/long.json",
+			"name": "💖自用jihulab专线"
+		},
+		{
+			"url": "https://999740.xyz/https://github.com/chenlong622/LIVE/blob/main/long.json",
+			"name": "💖备用github专线"
+		},
+		{
+			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/long.json",
+			"name": "💖备用codeberg专线"
+		},
+		{
+			"url": "http://cdn.qiaoji8.com/tvbox.json",
+			"name": "敲鸡专线"
+		},
+	    {
+			"url": "https://999740.xyz/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
+			"name": "OK大屌专线"
+		},
+		{
+			"url": "http://xhww.fun:63/小米/DEMO.json",
+			"name": "小米专线"
 		},
 		{
 			"url": "https://yydsys.top/duo",
-			"name": "多多线路"
-		},
-	        {
-			"url": "http://刚刚.live/猫",
-			"name": "刚刚线路"
+			"name": "多多专线"
 		},
 		{
-			"url": "https://神器每日推送.tk/pz.json",
-			"name": "神器线路"
+			"url": "http://rihou.vip:88/荷城茶秀",
+			"name": "💫荷城茶秀专线"
 		},
-		 {
+		{
+			"url": "https://999740.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+			"name": "高天流云专线"
+		},
+		{
+			"url": "https://fongmi.github.io/CatVodSpider/json/config.json",
+			"name": "🚀fongmi"
+		},
+		{
+			"url": "https://999740.xyz/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+			"name": "🚀Fongmi"
+		},
+		{
 			"url": "http://我不是.肥猫.love:63/接口禁止贩卖",
-			"name": "肥猫线路"
-		}, 
-	        {
-			"url": "http://pandown.pro/tvbox/tvbox.json",
-			"name": "巧儿线路"
-		}, 
-		 {
-			"url": "http://home.jundie.top:81/top98.json",
-			"name": "俊哥线路"
-		},
-		 {
-			"url": "http://drpy.site/js1",
-			"name": "小雅线路"
-		},
-		 {
-			"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-			"name": "云星线路"
-		},
-		 {
-			"url": "https://jm.dovxi.repl.co/api?url=http://%E9%A5%AD%E5%A4%AA%E7%A1%AC.ga/tv",
-			"name": "饭太硬线路"
+			"name": "👿肥猫专线"
 		},
 		{
-			"url": "https://agit.ai/wuheng42/TVBOXZY/raw/branch/main/18.json",
-			"name": "爱看线路"
+			"url": "https://999740.xyz/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+			"name": "香雅情专线"
 		},
-		 {
-			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/12",
-			"name": "十二线路"
+		{
+			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+			"name": "🐹南风专线"
 		},
-		 {
-			"url": "https://codeberg.org/chenlong622/LIVE/raw/branch/main/11",
-			"name": "无痕线路"
+		{
+			"url": "http://tvbo.run.goorm.site/tangs.json",
+			"name": "🚀唐三专线"
+		},
+		{
+			"url": "http://home.jundie.top:81/top98.json",
+			"name": "俊佬专线"
+		},
+		{
+			"url": "https://tvbox.cainisi.cf",
+			"name": "🚀菜妮丝线路专线"
+		},
+		{
+			"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+			"name": "🐹月光宝盒专线"
+		},
+		{
+			"url": "http://52bsj.vip:98/wuai",
+			"name": "🐹吾爱专线"
+		},
+		{
+			"url": "http://xn--sss604efuw.top/tv",
+			"name": "💖饭太硬专线"
 		}
 	]
 }
