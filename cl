@@ -23,10 +23,6 @@
 			"sourceName": "日后服务器仓",
 			"sourceUrl": "http://rihou.vip:55"
 		},
-                                {
-			"sourceName": "🆎冰凉仓",
-			"sourceUrl": "https://gitee.com/yedeting/tvboxlivesdiy/raw/master/冰凉仓库.json"
-		},
 		{
 			"sourceName": "🐰时光仓",
 			"sourceUrl": "https://jihulab.com/wemtime/tvbox/-/raw/main/APP.txt"
