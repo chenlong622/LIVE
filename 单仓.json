@@ -1,6 +1,6 @@
 {
 	"urls": [{
-			"url": "https://jihulab.com/chenlong622/1/-/raw/main/long.json",
+			"url": "https://gitee.com/chenlong622/LIVE/raw/main/long.json",
 			"name": "自建线路1"
 		},
 		{
@@ -12,32 +12,28 @@
 			"name": "自建备用线路3"
 		},
 		{
-			"url": "https://jihulab.com/chenlong622/2/-/raw/main/pg/pg.json",
-			"name": "pg大屌"
+			"url": "https://gitee.com/chenlong622/LIVE/raw/main/pg/pg.json",
+			"name": "pg大"
 		},
 		{
 			"url": "http://cdn.qiaoji8.com/tvbox.json",
-			"name": "敲鸡"
+			"name": "巧计"
 		},
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
-			"name": "敲鸡2"
+			"name": "巧计2"
 		},
 		{
 			"url": "https://xhdwc.tk/0",
-			"name": "骚0"
+			"name": "S  0"
 		},
 	        {
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-			"name": "OK大屌"
+			"name": "OK大"
 		},
 		{
 			"url": "http://xhww.fun:63/小米/DEMO.json",
 			"name": "小米"
-		},
-		{
-			"url": "https://yydsys.top/duo",
-			"name": "多多"
 		},
 		{
 			"url": "http://rihou.vip:88/荷城茶秀",
