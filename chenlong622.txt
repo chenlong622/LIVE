@@ -979,7 +979,7 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 斗鱼DOTA2,https://live.metshop.top/douyu/9999
 斗鱼剑网3,https://live.metshop.top/douyu/528353
 
-武汉电信IPTV,#genre#
+湖北电信IPTV,#genre#
 CCTV-1HD,http://27.16.178.143:4567/rtp/239.254.96.96:8550
 CCTV-2HD(财经),http://27.16.178.143:4567/rtp/239.69.1.102:10250
 CCTV-3HD(综艺),http://27.16.178.143:4567/rtp/239.69.1.122:10370
