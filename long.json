@@ -28,7 +28,8 @@
 		"ua": "okhttp/3.15",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"},
-		{"name":"小肥羊","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/TTZB.txt"}
+		{"name":"TTZB","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/TTZB.txt"},
+		{"name":"玩偶","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/玩偶姐姐.txt"}
 	],
 	"warningText": "使用前请长按主页刷新后台数据.",
 	"sites": [{
