@@ -18,7 +18,16 @@
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
-		{"name":"范明明IPV6","url":"http://103.45.68.47:666/gy/m3u-txt.php?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u"}
+		{"name":"范明明IPV6","url":"http://103.45.68.47:666/gy/m3u-txt.php?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"},
+		{"name":"小肥羊","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"}
 	],
 	"warningText": "使用前请长按主页刷新后台数据.",
 	"sites": [{
