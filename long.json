@@ -52,6 +52,19 @@
 			"ext": "https://weixine.net/js/jianpian.js"
 		},
 		{
+            "key": "996",
+            "name": "996┃秒播",
+            "type": 3,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "ext": {
+                "分类url": "https://www.cs1369.com/show/id/index.php/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#爽文短剧$4#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$13#纪录片$14",
+                "筛选": "1"
+            },
+            "jar": "https://123.155123.xyz/HeChengChaXiu.jar"
+        },
+		{
 			"key": "Aid",
 			"name": "🚑急救┃教学",
 			"type": 3,
@@ -947,12 +960,12 @@
 	],
 
 	"parses": [{
-			"name": "超级并发",
+			"name": "并发",
 			"type": 3,
 			"url": "Demo"
 		},
 		{
-			"name": "超级嗅探",
+			"name": "嗅探",
 			"type": 3,
 			"url": "Web"
 		},
@@ -991,7 +1004,41 @@
         ]
       }
     },
-    {
+   {
+            "name": "解析线路2",
+            "url": "https://jx.961691.com/player/?url=",
+            "type": 0,
+            "ext": {
+                "flag": [
+                    "qiyi",
+                    "imgo",
+                    "爱奇艺",
+                    "奇艺",
+                    "qq",
+                    "腾讯",
+                    "youku",
+                    "优酷",
+                    "pptv",
+                    "PPTV",
+                    "letv",
+                    "乐视",
+                    "leshi",
+                    "bilibili",
+                    "哔哩哔哩",
+                    "哔哩",
+                    "mgtv",
+                    "芒果",
+                    "sohu",
+                    "xigua",
+                    "fun",
+                    "风行"
+                ],
+                "header": {
+                    "User-Agent": "Mozilla/5.0"
+                }
+            }
+        },
+		{
       "name": "TY77",
       "type": 1,
       "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url=",
