@@ -27,10 +27,6 @@
 			"url": "https://xhdwc.tk/0",
 			"name": "S  0"
 		},
-	        {
-			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-			"name": "OK大"
-		},
 		{
 			"url": "http://xhww.fun:63/小米/DEMO.json",
 			"name": "小米"
@@ -42,10 +38,6 @@
 		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
 			"name": "高天流云"
-		},
-		{
-			"url": "https://fongmi.github.io/CatVodSpider/json/config.json",
-			"name": "🚀fongmi"
 		},
 		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
@@ -76,16 +68,16 @@
 			"name": "🚀菜妮丝线"
 		},
 		{
-			"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-			"name": "🐹月光宝盒"
-		},
-		{
 			"url": "http://52bsj.vip:98/wuai",
 			"name": "吾爱"
 		},
 		{
 			"url": "http://xn--sss604efuw.top/tv",
 			"name": "💖饭太硬"
+		},
+	        {
+			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
+			"name": "OK(影视专用线路，其它播放器勿点否则会重复闪退)"
 		}
-	]
+    ]
 }
