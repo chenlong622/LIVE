@@ -56,7 +56,7 @@
 		},
 		{
             "key": "996",
-            "name": "996┃秒播",
+            "name": "♋996┃秒播",
             "type": 3,
             "filterable": 1,
             "api": "csp_XBPQ",
@@ -151,7 +151,7 @@
 		},
 		{
 			"key": "csp_MeiJu69",
-			"name": "♋️美剧┃直连",
+			"name": "🗽美剧┃直连",
 			"api": "csp_AppYsV2",
 			"type": 3,
 			"filterable": 1,
