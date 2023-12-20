@@ -8,12 +8,19 @@
     },
     {
       "name": "🎀xiaoya",
-      "server": "http://101.34.67.237:5244"
+      "server": "http://123.245.54.4:5678/"
     },
    {
       "name": "🎀xiaoya2",
-      "server": "http://171.211.55.91:5678/"
+      "server": "http://180.165.185.57:5678/"
     },
+    {
+      "name": "🎀xiaoya3",
+      "server": "http://110.41.48.42:5678/"
+    }, {
+      "name": "🎀xiaoya4",
+      "server": "http://39.108.140.37:5678/"
+    }, 
     {
       "name": "🅿托盘",
       "server": "https://pan.mediy.cn/"
