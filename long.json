@@ -597,7 +597,7 @@
 				"type": "rect",
 				"ratio": 1.433
 			},
-			"api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+			"api": "https://suoniapi.com/api.php/provide/vod",
 			"searchable": 1,
 			"changeable": 1,
 			"quickSearch": 1,
