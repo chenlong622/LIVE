@@ -1,6 +1,6 @@
  //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	"spider": "https://gitee.com/chenlong622/LIVE/raw/main/1220.jar;md5;58adbd51a4bbed437f442e4e9a4c85c2",
+	"spider": "https://gitee.com/chenlong622/LIVE/raw/main/1231.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"name": "live",
