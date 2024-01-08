@@ -5,23 +5,27 @@
 		},
 		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/chenlong622/LIVE/main/long.json",
-			"name": "🔥自建备用线路2"
+			"name": "🔥自建备用线路"
 		},
 		{
-			"url": "https://codeberg.org/chenlong/LIVE/raw/branch/main/long.json",
-			"name": "🔥自建备用线路3"
+			"url": "https://jihulab.com/chenlong622/2/-/raw/main/jp.josn",
+			"name": "🔥秒播线路"
 		},
 		{
 			"url": "https://gitee.com/chenlong622/LIVE/raw/main/pg/pg.json",
 			"name": "🚏pg大"
 		},
 		{
+			"url": "https://cloud.lxweb.cn/f/JEVZuk/xdcj.json",
+			"name": "❣XD线路"
+		},
+		{
 			"url": "http://cdn.qiaoji8.com/tvbox.json",
-			"name": "🤑巧计"
+			"name": "🎣巧计"
 		},
 		{
 			"url": "http://pandown.pro/tvbox/tvbox.json",
-			"name": "🤑巧计2"
+			"name": "🎣巧计2"
 		},
 		{
 			"url": "https://xhdwc.tk/0",
@@ -53,7 +57,7 @@
 		},
 		{
 			"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
-			"name": "🐹南风"
+			"name": "🎈南风"
 		},
 		{
 			"url": "http://tvbo.run.goorm.site/tangs.json",
@@ -75,9 +79,21 @@
 			"url": "http://xn--sss604efuw.top/tv",
 			"name": "💖饭太硬"
 		},
-	        {
+		{
+			"url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+			"name": "🎯业余线路"
+		},
+		{
+			"url": "http://sx.liuyun.wang:88/img",
+			"name": "👺瓜皮线路"
+		},
+		{
+			"url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
+			"name": "🚚运输车线路"
+		},
+		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-			"name": "🌼OK(影视专用线路，其它播放器勿点否则会重复闪退)"
+			"name": "🦾OK(影视专用线路，其它播放器勿点否则会重复闪退)"
 		}
-    ]
+	]
 }
