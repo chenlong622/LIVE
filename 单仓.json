@@ -1,23 +1,23 @@
 {
 	"urls": [{
 			"url": "https://gitee.com/chenlong622/LIVE/raw/main/long.json",
-			"name": "🔥自建线路1"
+			"name": "🔥自建"
 		},
 		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/chenlong622/LIVE/main/long.json",
-			"name": "🔥自建备用线路"
+			"name": "🔥备用"
 		},
 		{
 			"url": "https://jihulab.com/chenlong622/2/-/raw/main/jp.josn",
-			"name": "🔥秒播线路"
+			"name": "🔥秒线"
 		},
 		{
 			"url": "https://gitee.com/chenlong622/LIVE/raw/main/pg/pg.json",
-			"name": "🚏pg大"
+			"name": "🚏p-g大"
 		},
 		{
 			"url": "https://cloud.lxweb.cn/f/JEVZuk/xdcj.json",
-			"name": "❣XD线路"
+			"name": "❣心动"
 		},
 		{
 			"url": "http://cdn.qiaoji8.com/tvbox.json",
@@ -29,7 +29,7 @@
 		},
 		{
 			"url": "https://xhdwc.tk/0",
-			"name": "👽︎S 0"
+			"name": "👽︎S-0"
 		},
 		{
 			"url": "http://xhww.fun:63/小米/DEMO.json",
