@@ -15,24 +15,38 @@
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"},
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
 		{"name":"小肥羊","url":"https://mirror.ghproxy.com/raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-		"playerType": 1,
-		"ua": "okhttp/3.15",
-		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-		"logo": "https://epg.112114.xyz/logo/{name}.png"},
-		{"name":"晴天1217","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/晴天1217.txt"},
-        {
-		"name": "蜂蜜",
-		"url":"https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
-		{"name":"TTZB","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/TTZB.txt"},
-		{"name":"央地港歌源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/央地港歌源.txt"},
-		{"name":"玩偶","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/玩偶姐姐.txt"}
+		{"name":"晴天1217","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/%E6%99%B4%E5%A4%A91217%20.txt",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{"name":"TTZB","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/TTZB.txt",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{"name":"央地港歌源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/央地港歌源.txt",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{"name":"玩偶","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/chenlong622/LIVE/main/玩偶姐姐.txt",
+		"playerType": 1,
+		"ua": "okhttp/3.15",
+		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		"logo": "https://epg.112114.xyz/logo/{name}.png"
+		}
 	],
 	"warningText": "使用前请长按主页刷新后台数据.",
 	"sites": [{
