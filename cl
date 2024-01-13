@@ -28,6 +28,14 @@
 			"sourceUrl": "https://weixine.net/api.json"
 		},
                 {
+			"sourceName": "😃开心仓",
+			"sourceUrl": "http://rihou.vip:55"
+		},
+                {
+			"sourceName": "为☪kstore",
+			"sourceUrl": "https://cn.kstore.space/download/4708/xmbjmdc.json"
+		},
+                {
 			"sourceName": "私仓",
 			"sourceUrl": "https://gitee.com/chenlong622/LIVE/raw/main/私仓.json"
 		}
