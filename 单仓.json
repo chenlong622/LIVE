@@ -9,7 +9,7 @@
 		},
 		{
 			"url": "https://jihulab.com/chenlong622/2/-/raw/main/jp.josn",
-			"name": "🔥秒线"
+			"name": "🔥秒播"
 		},
 		{
 			"url": "https://gitee.com/chenlong622/LIVE/raw/main/cat/js.json",
@@ -45,15 +45,11 @@
 		},
 		{
 			"url": "http://rihou.vip:88/荷城茶秀",
-			"name": "💫荷城茶秀"
+			"name": "💫茶秀"
 		},
 		{
 			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-			"name": "☁️高天流云"
-		},
-		{
-			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
-			"name": "🚀Fongmi"
+			"name": "☁️高天"
 		},
 		{
 			"url": "http://肥猫.live",
@@ -77,7 +73,7 @@
 		},
 		{
 			"url": "https://tvbox.cainisi.cf",
-			"name": "🚀菜妮丝线"
+			"name": "🚀菜妮丝"
 		},
 		{
 			"url": "http://52bsj.vip:98/wuai",
@@ -89,19 +85,15 @@
 		},
 		{
 			"url": "http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-			"name": "🎯业余线路"
+			"name": "🎯业余"
 		},
 		{
 			"url": "http://sx.liuyun.wang:88/img",
-			"name": "👺瓜皮线路"
+			"name": "👺瓜皮"
 		},
 		{
 			"url": "http://svip.weixine.net:88/uploads/itvbox/svip.json",
-			"name": "🚚运输车线路"
-		},
-		{
-			"url": "https://mirror.ghproxy.com/raw.githubusercontent.com/okcaptain/okjar/rm/ok.json",
-			"name": "🦾OK(影视专用线路，其它播放器勿点否则会重复闪退)"
+			"name": "🚚运输车"
 		}
 	]
 }
