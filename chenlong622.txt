@@ -1080,6 +1080,47 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 斗鱼DOTA2,https://live.metshop.top/douyu/9999
 斗鱼剑网3,https://live.metshop.top/douyu/528353
 
+Youtube(需翻墙),#genre#
+三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+DW NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+K-POP,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+ABC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+TVBS网路新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+INDIA TODAY,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+FRANCE 24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+NBC NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+ANN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+东森幼幼歌曲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 动画频道,#genre#
 黑莓动画,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3744543001_-1909627957/ott.mobaibox.com/PLTV/88888890/224/3221225555/index.m3u8?icpid=88888890&RTS=1687951661&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 开心锤锤,http://epg.112114.xyz/douyu/9018297
