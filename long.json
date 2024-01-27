@@ -1,6 +1,6 @@
  //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-	"spider": "https://gitee.com/chenlong622/LIVE/raw/main/0115.jar;md5;adc8de6bb2e015ebbba6eba86901a688",
+	"spider": "https://gitee.com/chenlong622/LIVE/raw/main/0126.jar",
 	"wallpaper": "https://api.likepoems.com/img/bing",
 	"lives": [{
 		"name": "live",
