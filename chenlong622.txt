@@ -1086,14 +1086,9 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 斗鱼剑网3,https://live.metshop.top/douyu/528353
 
 Youtube(需翻墙),#genre#
-三立LIVE新聞HD直播,https://www.youtube.com/watch?v=4ZVUmEUFwaY
-TVBS新聞 55 頻道,https://www.youtube.com/watch?v=Hu1FkdAOws0
-東森財經新聞 57,https://www.youtube.com/watch?v=dphWo0r27Z4
-東森新聞 51 頻道,https://www.youtube.com/watch?v=RaIJ767Bj_M
-中天新聞HD直播,https://www.youtube.com/watch?v=wUPPkSANpyo
-中視新聞台 LIVE,https://www.youtube.com/watch?v=3OPNkiqD48g
-民視新聞直播,https://www.youtube.com/watch?v=XxJKnDLYZz4
-華視新聞HD,https://www.youtube.com/watch?v=TL8mmew3jb8
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+三立新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
