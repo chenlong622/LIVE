@@ -1088,8 +1088,13 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 Youtube(需翻墙),#genre#
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中视新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天直播,https://www.youtube.com/watch?v=68PCT0JT9Dw
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
+TVBS网路新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
+寰宇新闻,https://www.youtube.com/watch?v=vOue3tgccd0
+大猎人4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
+风景12K,https://www.youtube.com/watch?v=Rse-E5tARaY
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
