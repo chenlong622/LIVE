@@ -1089,6 +1089,7 @@ Youtube(需翻墙),#genre#
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 中视新闻,https://www.youtube.com/watch?v=oIgbl7t0S_w
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+东森新闻,https://www.youtube.com/watch?v=2dfAzcDf8Zg
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
