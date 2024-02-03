@@ -1095,6 +1095,7 @@ TVBS网路新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
 寰宇新闻,https://www.youtube.com/watch?v=vOue3tgccd0
 大猎人4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
 风景12K,https://www.youtube.com/watch?v=Rse-E5tARaY
+亚马逊4K,https://www.youtube.com/watch?v=6ycikMM4IO0
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 东森财经新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
