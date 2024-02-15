@@ -21,9 +21,17 @@
 			"name": "akun18禁"
 		},
 		{
-			"url":"https://ghproxy.net/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
-			"name": "9918"
-		},
+   "name": "qirenzhidao", 
+   "url": "https://github.com/qirenzhidao/tvbox18/raw/main/adult.json"
+  },
+  {
+   "name": "18cj", 
+   "url": "http://akun.work.gd/upload/18cj.json"
+  },
+  {
+   "name": "xiongjian83", 
+   "url": "https://raw.githubusercontent.com/xiongjian83/TvBox/main/19.json"
+  },
 		{
 			"url": "http://52bsj.vip:81/api/v3/file/get/67277/%E9%A5%AD%E5%A4%AA%E7%A1%AC.txt?sign=eG6j5FH3YGcHvUA6_cm9sMj8pZCTRCRiPcgoXKWoC54%3D%3A0",
 			"name": "饭太硬txt"
