@@ -5,13 +5,13 @@
 	"lives": [{
 		"name": "live",
 		"type": 0,
-		"url": "https://ghproxy.net/aw.githubusercontent.com/chenlong622/LIVE/main/chenlong622.txt",
+		"url": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/chenlong622.txt",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	        },
-		{"name":"范明明","url":"http://103.45.68.47:666/gy/m3u-txt.php?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+		{"name":"范明明","url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u",
 		"playerType": 1,
 		"ua": "okhttp/3.15",
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
