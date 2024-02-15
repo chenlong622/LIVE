@@ -37,7 +37,7 @@
 		},
                 {
 			"sourceName": "私仓",
-			"sourceUrl": "https://gitee.com/chenlong622/LIVE/raw/main/私仓.json"
+			"sourceUrl": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/99.json"
 		}
 	]
 }
