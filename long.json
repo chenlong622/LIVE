@@ -1,6 +1,6 @@
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-    "spider": "https://gitee.com/chenlong622/LIVE/raw/main/0216.jar;md5;be7060a567ce9e8021946b6de0ed8dae",
+    "spider": "https://gitee.com/chenlong622/LIVE/raw/main/0226.jar;md5;69c44556911acb40c53846bd52873fee",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
@@ -65,7 +65,7 @@
     "sites": [
         {
             "key": "豆豆",
-            "name": "🧧祝大家新春快乐龙年大吉",
+            "name": "🌱豆辨┃热播",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -83,15 +83,16 @@
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$https://wogg.xyz/$$$弹"
         },
         {
-			"key": "Yingtantv",
-			"name": "💯影探┃4K",
-			"type": 3,
-			"api": "csp_Yingtantv2",
-			"searchable": 1,
-			"changeable": 0,
-			"jar": " https://jihulab.com/chenlong622/2/-/raw/main/追忆影探布蕾带自动追踪.jar"
-
-		},
+            "key": "Hdhive",
+            "name": "🛒影巢|4K",
+            "type": 3,
+            "api": "csp_Hdhive",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 30,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt$$$null$$$1","jar":"https://gitee.com/chenlong622/LIVE/raw/main/pg/pg.jar"
+        },
         {
             "key": "荐片",
             "name": "🎬荐片┃秒播",
@@ -101,6 +102,24 @@
             "changeable": 1,
             "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
             "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+        },
+        {
+            "key": "Yinyuetai",
+            "name": "🛰音悦台┃MV",
+            "type": 3,
+            "api": "csp_Yinyuetai",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://gitee.com/chenlong622/LIVE/raw/main/0229.jar"
+        },
+        {
+            "key": "Fangniu4k",
+            "name": "🐂放牛┃4k",
+            "type": 3,
+            "api": "csp_Fangniu4k",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "https://gitee.com/chenlong622/LIVE/raw/main/0229.jar"
         },
         {
             "key": "439",
@@ -186,17 +205,27 @@
             "changeable": 1,
             "ext": "https://www.hdmyy.com/"
         },
-         {
-      "key": "率率",
-      "name": "😻率率┃App",
-      "type": 3,
-      "api": "csp_AppLd",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
-    },
+        {
+            "key": "率率",
+            "name": "😻率率┃App",
+            "type": 3,
+            "api": "csp_AppLd",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"
+        },
+        {
+            "key": "萌米",
+            "name": "🐱‍👓萌米┃App",
+            "type": 3,
+            "api": "csp_AppMao",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "FbjDcUxPqpfNr0QF4QvEpcoxMMdAA5wQTClJt+Hxgw4VXJLfrTSRjQjA6r70U2ONX3iG4lQWk1cgXQMSUZpbUzIYJ6iQs3+gcUVDp1lz6rcrGqDtCW4hfAf9JSR025m0+TGWMsZkVg=="
+        },
         {
             "key": "Czsapp",
             "name": "🥶厂长┃直连",
@@ -295,6 +324,15 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://gitee.com/chenlong622/LIVE/raw/main/alist.json"
+        },
+        {
+            "key": "酷看",
+            "name": "😀酷看┃App",
+            "type": 3,
+            "api": "csp_Kkys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "爱看",
@@ -885,16 +923,16 @@
             "type": 3,
             "url": "Web"
         },
-         {
-      "name": "解析1",
-      "type": 1,
-      "url": "https://cache.json.icu/8520.php?url="
-    },
-    {
-      "name": "解析2",
-      "type": 1,
-      "url": "http://119.91.123.253:2345/Api/yun.php?url="
-    },
+        {
+            "name": "解析1",
+            "type": 1,
+            "url": "https://cache.json.icu/8520.php?url="
+        },
+        {
+            "name": "解析2",
+            "type": 1,
+            "url": "http://119.91.123.253:2345/Api/yun.php?url="
+        },
         {
             "name": "神秘人哥哥们",
             "type": 1,
@@ -1181,24 +1219,24 @@
     ],
     "rules": [
         {
-      "name": "proxy",
-      "hosts": [
-        "raw.githubusercontent.com",
-        "googlevideo.com",
-        "cdn.v82u1l.com",
-        "cdn.iz8qkg.com",
-        "cdn.kin6c1.com",
-        "c.biggggg.com",
-        "c.olddddd.com",
-        "haiwaikan.com",
-        "www.histar.tv",
-        "youtube.com",
-        "uhibo.com",
-        ".*boku.*",
-        ".*nivod.*",
-        ".*ulivetv.*"
-      ]
-    },
+            "name": "proxy",
+            "hosts": [
+                "raw.githubusercontent.com",
+                "googlevideo.com",
+                "cdn.v82u1l.com",
+                "cdn.iz8qkg.com",
+                "cdn.kin6c1.com",
+                "c.biggggg.com",
+                "c.olddddd.com",
+                "haiwaikan.com",
+                "www.histar.tv",
+                "youtube.com",
+                "uhibo.com",
+                ".*boku.*",
+                ".*nivod.*",
+                ".*ulivetv.*"
+            ]
+        },
         {
             "name": "hwk",
             "hosts": [
