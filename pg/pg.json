@@ -91,6 +91,7 @@
 		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://gitee.com/chenlong622/LIVE/raw/main/pg/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt"},
 		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://gitee.com/chenlong622/LIVE/raw/main/pg/lib/tokenm.json"},
 		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "ext":"https://gitee.com/chenlong622/LIVE/raw/main/pg/lib/tokenm.json"},
+		{"key":"Yscapp","name":"影视车|App","type":3,"api":"csp_Yscapp","quickSearch":1, "changeable":1, "filterable":1, "timeout":30, "playerType":1, "playerType":1, "ext":"1"},
 		{
 			"key": "NanGua",
 			"name": "南瓜|弹幕",
