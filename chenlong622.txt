@@ -1158,6 +1158,7 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 
 Youtube(需翻墙),#genre#
 TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞HD,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -1172,6 +1173,7 @@ TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
 三立live,https://www.youtube.com/watch?v=FoBfXvlOR6I
 三立inews,https://www.youtube.com/watch?v=CKjSm5ZeehE
 三立NEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
+公视新闻,https://www.youtube.com/watch?v=quwqlazU-c8
 东森财经股市,https://www.youtube.com/watch?v=LbS-xQ67fos
 大猎人4K,https://www.youtube.com/watch?v=vQP8AwAFzI8
 风景12K,https://www.youtube.com/watch?v=Rse-E5tARaY
