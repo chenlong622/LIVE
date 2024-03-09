@@ -1157,8 +1157,8 @@ Bili英雄联盟4K总决赛,https://live.metshop.top/bilibili/10
 斗鱼剑网3,https://live.metshop.top/douyu/528353
 
 Youtube(需翻墙),#genre#
-TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS新聞HD,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
 TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
