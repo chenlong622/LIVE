@@ -38,7 +38,20 @@ CCTV-16 奥林匹克,https://itv.lat/tv/live.php?&line=1&id=cctv16
 CCTV-17 农业农村,https://itv.lat/tv/live.php?&line=1&id=cctv17
 CCTV-4K 超高清,https://itv.lat/tv/live.php?&line=1&id=cctv4k
 CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
-北京IPTV,#genre#
+
+电影直播ᴴᴰ,#genre#
+CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?blog.ntnas.top
+
+CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8?blog.ntnas.top
+
+CHC高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8?blog.ntnas.top
+
+科幻动作灾难,http://epg.112114.xyz/douyu/252802
+科幻影视解说,http://epg.112114.xyz/douyu/3508304
+60帧极致蓝光,http://epg.112114.xyz/douyu/747764
+经典神剧,http://epg.112114.xyz/douyu/3700024
+华语经典,http://epg.112114.xyz/douyu/434971
+豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 淘电影1,http://218.241.192.50:8808/udp/239.3.1.249:8001
 淘电影2,http://218.241.192.50:8808/udp/239.3.1.250:8001
 淘BABY,http://218.241.192.50:8808/udp/239.3.1.238:8001
@@ -46,59 +59,6 @@ CCTV-16 奥林匹克 4K,https://itv.lat/tv/live.php?&line=1&id=cctv164k
 淘精彩HD,http://218.241.192.50:8808/udp/239.3.1.178:8001
 淘剧场HD,http://218.241.192.50:8808/udp/239.3.1.95:8001
 淘娱乐HD,http://218.241.192.50:8808/udp/239.3.1.100:8001
-
-电影直播ᴴᴰ,#genre#
-CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8?blog.ntnas.top
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-
-CHC家庭影院,http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8?blog.ntnas.top
-
-
-CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
-CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
-CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
-
-黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw183610459_1541235397/ott.mobaibox.com/PLTV/88888890/224/3221225567/index.m3u8?icpid=88888890&RTS=1687952395&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw1557894210_-694330224/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw1557681271_-1627945614/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8?icpid=3&RTS=1674385968&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-黑莓电影,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3
-CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-华数高清,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-超级电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-超级电视剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-明星大片,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-精彩影视,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-欧美影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/7185203501769528108/index.m3u8?channel-id=wasusyt&Contentid=7185203501769528108&livemode=1&stbId=3
-亚洲影院,http://[2409:8087:7001:20:1000::95]:6610/000000001000/5841816227539527643/index.m3u8?channel-id=wasusyt&Contentid=5841816227539527643&livemode=1&stbId=3
-院线影视,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3
-江苏移动4K影视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-Hot风尚音乐,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000004/index.m3u8?channel-
-Hot风尚音乐,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5529729098703832176/index.m3u8?channel-
-Hot精品剧场,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000002/index.m3u8?channel-
-Hot精品剧场,http://[2409:8087:7000:20:1000::22]:6060/000000001000/8230197131234717902/index.m3u8?channel-
-Hot欧美影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000005/index.m3u8?channel-
-Hot欧美影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/7185203501769528108/index.m3u8?channel-
-Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000006/index.m3u8?channel-
-Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227539527643/index.m3u8?channel-
-科幻动作灾难,http://epg.112114.xyz/douyu/252802
-科幻影视解说,http://epg.112114.xyz/douyu/3508304
-60帧极致蓝光,http://epg.112114.xyz/douyu/747764
-经典神剧,http://epg.112114.xyz/douyu/3700024
-华语经典,http://epg.112114.xyz/douyu/434971
-峨眉电影,http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-峨眉电影,http://r.jdshipin.com/XIjta
-峨眉电影,http://r.jdshipin.com/vFgDS
-华语影院,https://live.v1.mk/api/bestv.php?id=hyyy8m/8000000
-HBO,http://208.115.225.174:14136
-HBO2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-HBO X,http://208.115.225.174:14165
-豆瓣評分電影,http://epg.112114.xyz/douyu/8770422
 
 🎬斗鱼电影,#genre#
 斗鱼HD电影1,http://epg.112114.xyz/douyu/3637778
