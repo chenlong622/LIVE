@@ -95,6 +95,8 @@ CHC高清电影,http://111.20.33.93/TVOD/88888893/224/3221226463/index.m3u8?blog
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
 凤凰中文,http://113.64.145.61:8081/hls/37/index.m3u8
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
@@ -126,6 +128,36 @@ TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+
+凤凰卫视中文台,http://proxy.dfkj.live/alitv.php?u=min&id=1
+凤凰卫视资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=2
+香港有线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=3
+香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=4
+香港有线高清603台,http://proxy.dfkj.live/alitv.php?u=min&id=5
+TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=6
+TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=8
+TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
+TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=11
+TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=12
+HOY TV,http://proxy.dfkj.live/alitv.php?u=min&id=17
+HOY资讯台,http://proxy.dfkj.live/alitv.php?u=min&id=18
+TVB无线新闻台,http://8.137.59.151:99/haioutz/haiousmttz.php?id=5
+TVB无线财经体育,http://8.137.59.151:99/haioutz/haiousmttz.php?id=6
+天映频道,http://8.137.59.151:99/haioutz/haiousmttz.php?id=15
+HOY 76台,http://proxy.dfkj.live/alitv.php?u=min&id=16
+HOY 77台,http://proxy.dfkj.live/alitv.php?u=min&id=17
+HOY 78台,http://proxy.dfkj.live/alitv.php?u=min&id=18
+HOY 78台,http://proxy.dfkj.live/alitv.php?u=min&id=3
+TVB翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
+香港有线18台,http://proxy.dfkj.live/alitv.php?u=min&id=4
+香港有线高清603台,http://proxy.dfkj.live/alitv.php?u=min&id=5
+TVB无线新闻台,http://proxy.dfkj.live/alitv.php?u=min&id=6
+TVB翡翠台,http://proxy.dfkj.live/alitv.php?u=min&id=8
+TVB明珠台,http://proxy.dfkj.live/alitv.php?u=min&id=10
+TVB J2,http://proxy.dfkj.live/alitv.php?u=min&id=11
+TVB星河,http://proxy.dfkj.live/alitv.php?u=min&id=12
 
 4K高清,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
