@@ -1,6 +1,6 @@
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-    "spider": "https://gitee.com/chenlong622/LIVE/raw/main/0226.jar;md5;69c44556911acb40c53846bd52873fee",
+    "spider": "https://gitee.com/chenlong622/LIVE/raw/main/0419.jar;md5;c84c36278bd8bc95a63449a128074be0",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
@@ -100,8 +100,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
+           "api": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
+            "ext": "https://152.32.170.60/fantaiying/dr_py/raw/branch/main/js/荐片.js"
         },
         {
             "key": "Yinyuetai",
@@ -235,18 +235,19 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "https://www.czzy55.com/"
+            "ext": "https://www.cz233.com/"
         },
-        {
-            "key": "csp_MeiJu69",
-            "name": "🐷美剧┃直连",
-            "api": "csp_AppYsV2",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
-        },
+         {
+      "key": "zxzj",
+      "name": "🍊在线┃外剧",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzja.com/"
+    },
         {
             "key": "DiDuan",
             "name": "⏮️低端┃直连",
