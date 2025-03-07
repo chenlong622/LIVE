@@ -4,12 +4,17 @@
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
-            "name": "long😄",
-            "type": 0,
+            "name": "直播1",
             "url": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/chenlong622.txt",
             "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.v1.mk/logo/{name}.png"
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+         {
+            "name": "直播2",
+            "url": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/TV.m3u",
+            "playerType": 1,
+            "playerType": 1,
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
         },
         {
             "name": "fmm",
