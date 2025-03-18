@@ -1,6 +1,6 @@
 //key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕
 {
-    "spider": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/315.txt;md5;92a4933113be29d94549f5bd3f03cd6b",
+    "spider": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/318.txt;md5;dda5ab42b722f13761900308a6caff89",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
