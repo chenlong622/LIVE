@@ -137,38 +137,6 @@ TV BRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 
-
-4K高清,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-华数4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-华数4K,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-华数4K,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-
-斗鱼4K电影,http://159.75.85.63:35455/douyu/9249162
-
-江苏广电4K,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-FASHIONTV 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-臻彩4K欧洲,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-4kurd hd,https://epg.pw/stream/0e6ac497dc894c3d3a4c17beaa797e4e21540e7ea91b7bec9546cc1479b814ed.m3u8
-ultra rex uhd⁴ᴷ,https://epg.pw/stream/45d481dedb79486584147631fc4a6914c54aea5ea89717732a8d13f9e0bb394d.ctv
-LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Now Sports 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
-ELEVEN SPORTS 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
-4k备,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/4001/index.m3u8
-Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-Clarity4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Loupe 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-LoveNature4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-VTC13 4K,http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8?
-咪咕4K,http://zteres.sn.chinamobile.com:6060/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
-8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-
-
 🎮游戏直播,#genre#
 永劫无间,http://tc-tct.douyucdn2.cn/dyliveflv1a/9662891rlaeIAP3A.flv?wsAuth=900a607f085ce29d02fa943b6bebdd55&token=cpn-androidmpro-0-9662891-7de7dc707e1a51dda3c66a0598c35174d21999c57bfc0e87&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play
 王者荣耀甲级职业联赛,http://tc-tct.douyucdn2.cn/dyliveflv1/1984839rdqYitoI8_2000.flv?wsAuth=a56eed24129590fea240db8cf03ea8de&token=cpn-androidmpro-0-1984839-67aff303abf98630a586f7ac17fb752fb4386be06751f18a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=
