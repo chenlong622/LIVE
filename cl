@@ -20,12 +20,24 @@
 			"sourceUrl": "https://weixine.net/api.json"
 		},
                 {
-			"sourceName": "😃开心仓",
-			"sourceUrl": "http://rihou.vip:55"
+			"sourceName": "😃hfr",
+			"sourceUrl": "http://000.hfr1107.top/dc.json"
 		},
                 {
-			"sourceName": "为☪kstore",
-			"sourceUrl": "https://cn.kstore.space/download/4708/xmbjmdc.json"
+			"sourceName": "星辰仓",
+			"sourceUrl": "http://150.158.112.123/dc.json"
+		},
+                {
+			"sourceName": "拾光仓",
+			"sourceUrl": "https://4708.kstore.space/ck.json"
+		},
+                 {
+			"sourceName": "天微仓",
+			"sourceUrl": "https://qixing.myhkw.com/DC.txt"
+		},
+                 {
+			"sourceName": "多多仓",
+			"sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"
 		},
                 {
 			"sourceName": "私仓",
