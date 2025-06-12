@@ -8,14 +8,6 @@
 			"sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=欧歌"
 		},
 		{
-			"sourceName": "☁️云星在线仓",
-			"sourceUrl": "https://itvbox.cc/可视TV/云星日记/仓库/api.json"
-		},
-		{
-			"sourceName": "🌈星河科技园仓",
-			"sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
-		},
-		{
 			"sourceName": "🐰时光仓",
 			"sourceUrl": "https://jihulab.com/wemtime/tvbox/-/raw/main/APP.txt"
 		},
