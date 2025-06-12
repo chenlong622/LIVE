@@ -40,7 +40,7 @@
 			"sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/line.json"
 		},
                 {
-			"sourceName": "私仓",
+			"sourceName": "🔞私仓",
 			"sourceUrl": "https://ghproxy.net/raw.githubusercontent.com/chenlong622/LIVE/main/99.json"
 		}
 	]
