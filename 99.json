@@ -1,6 +1,10 @@
 {
 	"urls": [
 		{
+			"url": "https://gitee.com/chenlong622/LIVE/raw/main/wd.png",
+			"name": "采集wd"
+		},
+		{
 			"url": "https://ghproxy.net/raw.githubusercontent.com/bizhangjie/CatVodSpider/refs/heads/main/json/index18.json",
 			"name": "硬18"
 		},
@@ -25,12 +29,12 @@
 			"name": "二哈18禁"
 		},
 		{
-			"url":"http://akun.work.gd/upload/18cj.json",
+			"url":"https://ghproxy.net/raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/catcr.json",
 			"name": "akun18禁"
 		},
 		{
    "name": "qirenzhidao", 
-   "url": "https://github.com/qirenzhidao/tvbox18/raw/main/adult.json"
+   "url": "https://ghproxy.net/https://github.com/qirenzhidao/tvbox18/raw/main/adult.json"
   },
   {
    "name": "18cj", 
